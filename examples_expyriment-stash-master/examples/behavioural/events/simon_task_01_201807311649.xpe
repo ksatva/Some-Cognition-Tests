@@ -1,0 +1,242 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Jul 31 2018 16:49:37
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+12128,design,log,
+#design: #exp: Simon Task
+#design: #bws: OrderOfMapping=1,2
+#design: #bws-rand: 0
+#design: #dvn: Mapping,Colour,Position,Button,RT
+#design: block_cnt,block_id,block_Mapping,trial_cnt,trial_id,Position,Colour
+#design: 0,0,left4green,0,21,left,green
+#design: 0,0,left4green,1,20,left,green
+#design: 0,0,left4green,2,11,left,red
+#design: 0,0,left4green,3,22,left,green
+#design: 0,0,left4green,4,47,right,red
+#design: 0,0,left4green,5,35,left,green
+#design: 0,0,left4green,6,46,right,red
+#design: 0,0,left4green,7,32,left,green
+#design: 0,0,left4green,8,14,left,red
+#design: 0,0,left4green,9,57,right,red
+#design: 0,0,left4green,10,58,right,red
+#design: 0,0,left4green,11,27,left,green
+#design: 0,0,left4green,12,12,left,red
+#design: 0,0,left4green,13,6,left,red
+#design: 0,0,left4green,14,76,right,green
+#design: 0,0,left4green,15,3,left,red
+#design: 0,0,left4green,16,45,right,red
+#design: 0,0,left4green,17,4,left,red
+#design: 0,0,left4green,18,65,right,green
+#design: 0,0,left4green,19,8,left,red
+#design: 0,0,left4green,20,41,right,red
+#design: 0,0,left4green,21,52,right,red
+#design: 0,0,left4green,22,25,left,green
+#design: 0,0,left4green,23,50,right,red
+#design: 0,0,left4green,24,7,left,red
+#design: 0,0,left4green,25,72,right,green
+#design: 0,0,left4green,26,24,left,green
+#design: 0,0,left4green,27,56,right,red
+#design: 0,0,left4green,28,60,right,green
+#design: 0,0,left4green,29,23,left,green
+#design: 0,0,left4green,30,64,right,green
+#design: 0,0,left4green,31,73,right,green
+#design: 0,0,left4green,32,33,left,green
+#design: 0,0,left4green,33,28,left,green
+#design: 0,0,left4green,34,9,left,red
+#design: 0,0,left4green,35,74,right,green
+#design: 0,0,left4green,36,53,right,red
+#design: 0,0,left4green,37,63,right,green
+#design: 0,0,left4green,38,26,left,green
+#design: 0,0,left4green,39,79,right,green
+#design: 0,0,left4green,40,37,left,green
+#design: 0,0,left4green,41,44,right,red
+#design: 0,0,left4green,42,30,left,green
+#design: 0,0,left4green,43,51,right,red
+#design: 0,0,left4green,44,48,right,red
+#design: 0,0,left4green,45,42,right,red
+#design: 0,0,left4green,46,18,left,red
+#design: 0,0,left4green,47,38,left,green
+#design: 0,0,left4green,48,16,left,red
+#design: 0,0,left4green,49,10,left,red
+#design: 0,0,left4green,50,78,right,green
+#design: 0,0,left4green,51,70,right,green
+#design: 0,0,left4green,52,19,left,red
+#design: 0,0,left4green,53,34,left,green
+#design: 0,0,left4green,54,66,right,green
+#design: 0,0,left4green,55,29,left,green
+#design: 0,0,left4green,56,36,left,green
+#design: 0,0,left4green,57,1,left,red
+#design: 0,0,left4green,58,59,right,red
+#design: 0,0,left4green,59,49,right,red
+#design: 0,0,left4green,60,31,left,green
+#design: 0,0,left4green,61,71,right,green
+#design: 0,0,left4green,62,39,left,green
+#design: 0,0,left4green,63,2,left,red
+#design: 0,0,left4green,64,61,right,green
+#design: 0,0,left4green,65,62,right,green
+#design: 0,0,left4green,66,75,right,green
+#design: 0,0,left4green,67,55,right,red
+#design: 0,0,left4green,68,43,right,red
+#design: 0,0,left4green,69,5,left,red
+#design: 0,0,left4green,70,15,left,red
+#design: 0,0,left4green,71,77,right,green
+#design: 0,0,left4green,72,54,right,red
+#design: 0,0,left4green,73,68,right,green
+#design: 0,0,left4green,74,40,right,red
+#design: 0,0,left4green,75,17,left,red
+#design: 0,0,left4green,76,0,left,red
+#design: 0,0,left4green,77,13,left,red
+#design: 0,0,left4green,78,67,right,green
+#design: 0,0,left4green,79,69,right,green
+#design: 1,1,left4red,0,63,right,green
+#design: 1,1,left4red,1,49,right,red
+#design: 1,1,left4red,2,72,right,green
+#design: 1,1,left4red,3,34,left,green
+#design: 1,1,left4red,4,19,left,red
+#design: 1,1,left4red,5,42,right,red
+#design: 1,1,left4red,6,48,right,red
+#design: 1,1,left4red,7,71,right,green
+#design: 1,1,left4red,8,38,left,green
+#design: 1,1,left4red,9,11,left,red
+#design: 1,1,left4red,10,3,left,red
+#design: 1,1,left4red,11,50,right,red
+#design: 1,1,left4red,12,15,left,red
+#design: 1,1,left4red,13,2,left,red
+#design: 1,1,left4red,14,74,right,green
+#design: 1,1,left4red,15,56,right,red
+#design: 1,1,left4red,16,78,right,green
+#design: 1,1,left4red,17,12,left,red
+#design: 1,1,left4red,18,13,left,red
+#design: 1,1,left4red,19,35,left,green
+#design: 1,1,left4red,20,57,right,red
+#design: 1,1,left4red,21,20,left,green
+#design: 1,1,left4red,22,46,right,red
+#design: 1,1,left4red,23,1,left,red
+#design: 1,1,left4red,24,28,left,green
+#design: 1,1,left4red,25,67,right,green
+#design: 1,1,left4red,26,79,right,green
+#design: 1,1,left4red,27,26,left,green
+#design: 1,1,left4red,28,54,right,red
+#design: 1,1,left4red,29,53,right,red
+#design: 1,1,left4red,30,45,right,red
+#design: 1,1,left4red,31,17,left,red
+#design: 1,1,left4red,32,61,right,green
+#design: 1,1,left4red,33,40,right,red
+#design: 1,1,left4red,34,0,left,red
+#design: 1,1,left4red,35,22,left,green
+#design: 1,1,left4red,36,5,left,red
+#design: 1,1,left4red,37,33,left,green
+#design: 1,1,left4red,38,47,right,red
+#design: 1,1,left4red,39,8,left,red
+#design: 1,1,left4red,40,77,right,green
+#design: 1,1,left4red,41,55,right,red
+#design: 1,1,left4red,42,18,left,red
+#design: 1,1,left4red,43,32,left,green
+#design: 1,1,left4red,44,51,right,red
+#design: 1,1,left4red,45,52,right,red
+#design: 1,1,left4red,46,75,right,green
+#design: 1,1,left4red,47,37,left,green
+#design: 1,1,left4red,48,44,right,red
+#design: 1,1,left4red,49,16,left,red
+#design: 1,1,left4red,50,36,left,green
+#design: 1,1,left4red,51,7,left,red
+#design: 1,1,left4red,52,41,right,red
+#design: 1,1,left4red,53,9,left,red
+#design: 1,1,left4red,54,66,right,green
+#design: 1,1,left4red,55,10,left,red
+#design: 1,1,left4red,56,64,right,green
+#design: 1,1,left4red,57,24,left,green
+#design: 1,1,left4red,58,70,right,green
+#design: 1,1,left4red,59,29,left,green
+#design: 1,1,left4red,60,21,left,green
+#design: 1,1,left4red,61,65,right,green
+#design: 1,1,left4red,62,31,left,green
+#design: 1,1,left4red,63,4,left,red
+#design: 1,1,left4red,64,60,right,green
+#design: 1,1,left4red,65,58,right,red
+#design: 1,1,left4red,66,27,left,green
+#design: 1,1,left4red,67,30,left,green
+#design: 1,1,left4red,68,39,left,green
+#design: 1,1,left4red,69,73,right,green
+#design: 1,1,left4red,70,69,right,green
+#design: 1,1,left4red,71,23,left,green
+#design: 1,1,left4red,72,25,left,green
+#design: 1,1,left4red,73,62,right,green
+#design: 1,1,left4red,74,76,right,green
+#design: 1,1,left4red,75,6,left,red
+#design: 1,1,left4red,76,14,left,red
+#design: 1,1,left4red,77,68,right,green
+#design: 1,1,left4red,78,59,right,red
+#design: 1,1,left4red,79,43,right,red
+12130,design,logged,
+12130,Experiment,started
+12201,Stimulus,presented,10
+20887,Keyboard,received,276,wait
+20889,Stimulus,presented,0
+21891,Stimulus,presented,2
+27128,Keyboard,received,276,wait
+27129,Stimulus,presented,0
+28130,Stimulus,presented,2
+29336,Keyboard,received,276,wait
+29336,Stimulus,presented,0
+30339,Stimulus,presented,1
+33672,Keyboard,received,275,wait
+33672,Stimulus,presented,0
+34674,Stimulus,presented,2
+35432,Keyboard,received,276,wait
+35433,Stimulus,presented,0
+36435,Stimulus,presented,3
+39480,Keyboard,received,275,wait
+39480,Stimulus,presented,0
+40482,Stimulus,presented,2
+41488,Keyboard,received,276,wait
+41489,Stimulus,presented,0
+42490,Stimulus,presented,3
+50127,Keyboard,received,276,wait
+50128,Stimulus,presented,0
+51129,Stimulus,presented,2
+51816,Keyboard,received,276,wait
+51817,Stimulus,presented,0
+52818,Stimulus,presented,1
+54864,Keyboard,received,276,wait
+54864,Stimulus,presented,0
+55866,Stimulus,presented,3
+57568,Keyboard,received,276,wait
+57568,Stimulus,presented,0
+58570,Stimulus,presented,3
+59048,Keyboard,received,276,wait
+59049,Stimulus,presented,0
+60050,Stimulus,presented,2
+60560,Keyboard,received,276,wait
+60561,Stimulus,presented,0
+61562,Stimulus,presented,1
+62056,Keyboard,received,276,wait
+62057,Stimulus,presented,0
+63058,Stimulus,presented,1
+63488,Keyboard,received,276,wait
+63489,Stimulus,presented,0
+64490,Stimulus,presented,4
+65288,Keyboard,received,276,wait
+65288,Stimulus,presented,0
+66290,Stimulus,presented,1
+66928,Keyboard,received,276,wait
+66929,Stimulus,presented,0
+67930,Stimulus,presented,3
+67933,Keyboard,received,276,wait
+67934,Stimulus,presented,0
+68936,Stimulus,presented,1
+69056,Keyboard,received,276,wait
+69057,Stimulus,presented,0
+70058,Stimulus,presented,4
+300224,Keyboard,received,276,wait
+300225,Stimulus,presented,0
+301226,Stimulus,presented,1
+307760,Experiment,paused
+307762,Stimulus,presented,11
+310040,Keyboard,received,b'y',wait_char
+310040,Experiment,ended
+310041,Data,saved
+310044,Stimulus,presented,11

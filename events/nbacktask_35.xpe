@@ -1,0 +1,69 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 20:03:09
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+265,stdout,received,'level1'
+266,stdout,received,'Block None: unnamed\n    block factors: LEVEL = level1\n    n trials: 8\n    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+266,stdout,received,'level2'
+266,stdout,received,'Block None: unnamed\n    block factors: LEVEL = level2\n    n trials: 8\n    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+2413,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,level1,0,0,red
+#design: 0,0,level1,1,1,red
+#design: 0,0,level1,2,2,green
+#design: 0,0,level1,3,3,green
+#design: 0,0,level1,4,4,blue
+#design: 0,0,level1,5,5,blue
+#design: 0,0,level1,6,6,yellow
+#design: 0,0,level1,7,7,yellow
+#design: 1,1,level2,0,0,red
+#design: 1,1,level2,1,1,red
+#design: 1,1,level2,2,2,green
+#design: 1,1,level2,3,3,green
+#design: 1,1,level2,4,4,blue
+#design: 1,1,level2,5,5,blue
+#design: 1,1,level2,6,6,yellow
+#design: 1,1,level2,7,7,yellow
+2414,design,logged,
+2414,Experiment,started
+2436,Stimulus,presented,9
+4211,Keyboard,received,13,wait
+4212,Stimulus,presented,0
+5213,Stimulus,presented,1
+6213,Stimulus,presented,0
+7214,Stimulus,presented,1
+8215,Stimulus,presented,0
+9216,Stimulus,presented,2
+10217,Stimulus,presented,0
+11218,Stimulus,presented,2
+12219,Stimulus,presented,0
+13220,Stimulus,presented,3
+14221,Stimulus,presented,0
+15222,Stimulus,presented,3
+16222,Stimulus,presented,0
+17223,Stimulus,presented,4
+18224,Stimulus,presented,0
+19225,Stimulus,presented,4
+20252,Stimulus,presented,10
+22331,Keyboard,received,13,wait
+22332,Stimulus,presented,0
+23333,Stimulus,presented,5
+24334,Stimulus,presented,0
+25335,Stimulus,presented,5
+26336,Stimulus,presented,0
+27337,Stimulus,presented,6
+28338,Stimulus,presented,0
+29339,Stimulus,presented,6
+30340,Stimulus,presented,0
+31341,Stimulus,presented,7
+32342,Stimulus,presented,0
+33342,Stimulus,presented,7
+34343,Stimulus,presented,0
+35344,Stimulus,presented,8
+36345,Stimulus,presented,0
+37346,Stimulus,presented,8
+38347,Experiment,ended

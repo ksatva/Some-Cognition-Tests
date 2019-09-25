@@ -1,0 +1,109 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 22:39:30
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+332,stdout,received,'LEVEL 1'
+334,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 8\n    trial IDs = [1, 3, 4, 2, 7, 5, 0, 6]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+334,stdout,received,'LEVEL 2'
+335,stdout,received,'Block None: LEVEL 2\n    block factors: LEVEL = LEVEL 2\n    n trials: 8\n    trial IDs = [4, 6, 1, 0, 7, 2, 3, 5]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+1549,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,1,red
+#design: 0,0,LEVEL 1,1,3,green
+#design: 0,0,LEVEL 1,2,4,blue
+#design: 0,0,LEVEL 1,3,2,green
+#design: 0,0,LEVEL 1,4,7,yellow
+#design: 0,0,LEVEL 1,5,5,blue
+#design: 0,0,LEVEL 1,6,0,red
+#design: 0,0,LEVEL 1,7,6,yellow
+#design: 1,1,LEVEL 2,0,4,blue
+#design: 1,1,LEVEL 2,1,6,yellow
+#design: 1,1,LEVEL 2,2,1,red
+#design: 1,1,LEVEL 2,3,0,red
+#design: 1,1,LEVEL 2,4,7,yellow
+#design: 1,1,LEVEL 2,5,2,green
+#design: 1,1,LEVEL 2,6,3,green
+#design: 1,1,LEVEL 2,7,5,blue
+1550,design,logged,
+1550,Experiment,started
+1550,Stimulus,presented,0
+2552,Stimulus,presented,1
+3411,Keyboard,received,32,wait
+3411,stdout,received,'(32, 857)'
+3411,Stimulus,presented,0
+4413,Stimulus,presented,2
+5011,Keyboard,received,32,wait
+5011,stdout,received,'(32, 596)'
+5011,Stimulus,presented,0
+6012,Stimulus,presented,3
+6595,Keyboard,received,32,wait
+6596,stdout,received,'(32, 582)'
+6596,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9be0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3998037a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>]'
+6596,Stimulus,presented,0
+7597,Stimulus,presented,2
+8599,Keyboard,received,None,wait
+8599,stdout,received,'(None, None)'
+8599,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3998037a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3998037a20>]'
+8599,Stimulus,presented,0
+9601,Stimulus,presented,4
+10603,Keyboard,received,None,wait
+10603,stdout,received,'(None, None)'
+10603,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3998037a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9fd0>]'
+10603,Stimulus,presented,0
+11604,Stimulus,presented,3
+12606,Keyboard,received,None,wait
+12606,stdout,received,'(None, None)'
+12606,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3998037a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9fd0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>]'
+12606,Stimulus,presented,0
+13607,Stimulus,presented,1
+14608,Keyboard,received,None,wait
+14608,stdout,received,'(None, None)'
+14609,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9fd0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9be0>]'
+14609,Stimulus,presented,0
+15610,Stimulus,presented,4
+16611,Keyboard,received,None,wait
+16612,stdout,received,'(None, None)'
+16612,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9dd8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9be0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9fd0>]'
+16612,Stimulus,presented,0
+17613,Stimulus,presented,7
+18615,Keyboard,received,None,wait
+18615,stdout,received,'(None, None)'
+18616,Stimulus,presented,0
+19617,Stimulus,presented,8
+20619,Keyboard,received,None,wait
+20619,stdout,received,'(None, None)'
+20619,Stimulus,presented,0
+21620,Stimulus,presented,5
+22622,Keyboard,received,None,wait
+22622,stdout,received,'(None, None)'
+22622,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf208>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf6a0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>]'
+22622,Stimulus,presented,0
+23623,Stimulus,presented,5
+24624,Keyboard,received,None,wait
+24624,stdout,received,'(None, None)'
+24624,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf6a0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>]'
+24625,Stimulus,presented,0
+25625,Stimulus,presented,8
+26627,Keyboard,received,None,wait
+26627,stdout,received,'(None, None)'
+26627,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf6a0>]'
+26627,Stimulus,presented,0
+27629,Stimulus,presented,6
+28631,Keyboard,received,None,wait
+28631,stdout,received,'(None, None)'
+28631,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9f98>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf6a0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9da0>]'
+28631,Stimulus,presented,0
+29632,Stimulus,presented,6
+30634,Keyboard,received,None,wait
+30634,stdout,received,'(None, None)'
+30634,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf6a0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9da0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9da0>]'
+30634,Stimulus,presented,0
+31635,Stimulus,presented,7
+32637,Keyboard,received,None,wait
+32637,stdout,received,'(None, None)'
+32637,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9da0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cc9da0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f3991cdf208>]'
+32637,Experiment,ended

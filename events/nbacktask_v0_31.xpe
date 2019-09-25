@@ -1,0 +1,38 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Fri Aug 17 2018 20:02:34
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+354,stdout,received,'LEVEL 1'
+355,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 4\n    trial IDs = [2, 1, 0, 3]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+4652,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,2,blue
+#design: 0,0,LEVEL 1,1,1,green
+#design: 0,0,LEVEL 1,2,0,red
+#design: 0,0,LEVEL 1,3,3,yellow
+4652,design,logged,
+4652,Experiment,started
+4652,Stimulus,presented,0
+6654,Stimulus,presented,3
+8656,Keyboard,received,None,wait
+8656,stdout,received,'None'
+8656,Stimulus,presented,0
+10658,Stimulus,presented,2
+12662,Keyboard,received,None,wait
+12662,stdout,received,'None'
+12663,Stimulus,presented,0
+14664,Stimulus,presented,1
+16666,Keyboard,received,None,wait
+16666,stdout,received,'None'
+16667,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f304ec88>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f8043e10>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f304eb70>]'
+16668,Stimulus,presented,0
+18669,Stimulus,presented,4
+20671,Keyboard,received,None,wait
+20671,stdout,received,'None'
+20671,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f8043e10>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f304eb70>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fb5f304ee10>]'
+20671,stdout,received,'nbacks in stimuli 0'
+20671,Experiment,ended

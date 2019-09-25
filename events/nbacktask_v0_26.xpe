@@ -1,0 +1,111 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Thu Aug 16 2018 16:23:05
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+303,stdout,received,'LEVEL 1'
+304,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 12\n    trial IDs = [0, 7, 9, 1, 11, 6, 10, 2, 3, 8, 5, 4]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+304,stdout,received,'LEVEL 2'
+305,stdout,received,'Block None: LEVEL 2\n    block factors: LEVEL = LEVEL 2\n    n trials: 12\n    trial IDs = [9, 10, 1, 7, 4, 5, 0, 6, 11, 3, 8, 2]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+154255,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,0,red
+#design: 0,0,LEVEL 1,1,7,blue
+#design: 0,0,LEVEL 1,2,9,yellow
+#design: 0,0,LEVEL 1,3,1,red
+#design: 0,0,LEVEL 1,4,11,yellow
+#design: 0,0,LEVEL 1,5,6,blue
+#design: 0,0,LEVEL 1,6,10,yellow
+#design: 0,0,LEVEL 1,7,2,red
+#design: 0,0,LEVEL 1,8,3,green
+#design: 0,0,LEVEL 1,9,8,blue
+#design: 0,0,LEVEL 1,10,5,green
+#design: 0,0,LEVEL 1,11,4,green
+#design: 1,1,LEVEL 2,0,9,yellow
+#design: 1,1,LEVEL 2,1,10,yellow
+#design: 1,1,LEVEL 2,2,1,red
+#design: 1,1,LEVEL 2,3,7,blue
+#design: 1,1,LEVEL 2,4,4,green
+#design: 1,1,LEVEL 2,5,5,green
+#design: 1,1,LEVEL 2,6,0,red
+#design: 1,1,LEVEL 2,7,6,blue
+#design: 1,1,LEVEL 2,8,11,yellow
+#design: 1,1,LEVEL 2,9,3,green
+#design: 1,1,LEVEL 2,10,8,blue
+#design: 1,1,LEVEL 2,11,2,red
+154255,design,logged,
+154255,Experiment,started
+154256,Stimulus,presented,0
+156257,Stimulus,presented,1
+158259,Keyboard,received,None,wait
+158259,stdout,received,'None'
+158259,Stimulus,presented,0
+160260,Stimulus,presented,3
+162261,Keyboard,received,None,wait
+162261,stdout,received,'None'
+162262,Stimulus,presented,0
+164263,Stimulus,presented,4
+166265,Keyboard,received,None,wait
+166265,stdout,received,'None'
+166265,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200adba8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>]'
+166266,Stimulus,presented,0
+168269,Stimulus,presented,1
+168758,Keyboard,received,32,wait
+168758,stdout,received,'32'
+168758,stdout,received,'flag set'
+168759,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200adba8>]'
+168759,stdout,received,'MISS'
+168759,Stimulus,presented,0
+170760,Stimulus,presented,4
+172762,Keyboard,received,None,wait
+172762,stdout,received,'None'
+172762,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200adba8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>]'
+172763,Stimulus,presented,0
+174764,Stimulus,presented,3
+176765,Keyboard,received,None,wait
+176765,stdout,received,'None'
+176766,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200adba8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>]'
+176766,Stimulus,presented,0
+178767,Stimulus,presented,4
+180770,Keyboard,received,None,wait
+180770,stdout,received,'None'
+180770,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>]'
+180771,Stimulus,presented,0
+182772,Stimulus,presented,1
+184775,Keyboard,received,None,wait
+184775,stdout,received,'None'
+184775,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200adba8>]'
+184776,Stimulus,presented,0
+186777,Stimulus,presented,2
+188779,Keyboard,received,None,wait
+188779,stdout,received,'None'
+188779,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>]'
+188780,Stimulus,presented,0
+190780,Stimulus,presented,3
+192781,Keyboard,received,None,wait
+192781,stdout,received,'None'
+192782,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200c10b8>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>]'
+192782,Stimulus,presented,0
+194783,Stimulus,presented,2
+196785,Keyboard,received,None,wait
+196785,stdout,received,'None'
+196785,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>]'
+196785,Stimulus,presented,0
+198786,Stimulus,presented,2
+200788,Keyboard,received,None,wait
+200788,stdout,received,'None'
+200788,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7f73200ade80>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>, <expyriment.stimuli._rectangle.Rectangle object at 0x7f7327204a20>]'
+200789,Stimulus,presented,0
+202201,stderr,received,'Traceback (most recent call last):'
+202201,stderr,received,'  File "nbacktask_v0.py", line 54, in <module>'
+202201,stderr,received,'    exp.clock.wait(2000-t.stimuli[0].preload())'
+202201,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/misc/_clock.py", line 157, in wait'
+202201,stderr,received,'    while (self.time < start + (waiting_time - looptime)):'
+202202,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/misc/_clock.py", line 75, in time'
+202202,stderr,received,'    return int((get_time() - self.__init_time) * 1000)'
+202202,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/misc/_timer.py", line 74, in get_time'
+202247,stderr,received,'    if _clock_gettime(_CLOCK_MONOTONIC, ctypes.pointer(t)) != 0:'
+202247,stderr,received,'KeyboardInterrupt'

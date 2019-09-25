@@ -1,0 +1,211 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 15:11:51
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+13165,design,log,
+#design: #exp: SNARC
+#design: #xpi: This a just a SNARC experiment.
+#design: #bws: mapping_order=left_odd_first,right_odd_first
+#design: #bws-rand: 0
+#design: #dvn: block,mapping,trial,digit,ISI,btn,RT,error
+#design: block_cnt,block_id,block_mapping,trial_cnt,trial_id,digit
+#design: 0,0,left_odd,0,50,7
+#design: 0,0,left_odd,1,13,2
+#design: 0,0,left_odd,2,6,1
+#design: 0,0,left_odd,3,0,1
+#design: 0,0,left_odd,4,9,1
+#design: 0,0,left_odd,5,45,6
+#design: 0,0,left_odd,6,77,9
+#design: 0,0,left_odd,7,5,1
+#design: 0,0,left_odd,8,72,9
+#design: 0,0,left_odd,9,3,1
+#design: 0,0,left_odd,10,39,4
+#design: 0,0,left_odd,11,43,6
+#design: 0,0,left_odd,12,63,8
+#design: 0,0,left_odd,13,35,4
+#design: 0,0,left_odd,14,26,3
+#design: 0,0,left_odd,15,24,3
+#design: 0,0,left_odd,16,65,8
+#design: 0,0,left_odd,17,8,1
+#design: 0,0,left_odd,18,76,9
+#design: 0,0,left_odd,19,48,6
+#design: 0,0,left_odd,20,59,7
+#design: 0,0,left_odd,21,64,8
+#design: 0,0,left_odd,22,38,4
+#design: 0,0,left_odd,23,40,6
+#design: 0,0,left_odd,24,22,3
+#design: 0,0,left_odd,25,53,7
+#design: 0,0,left_odd,26,28,3
+#design: 0,0,left_odd,27,17,2
+#design: 0,0,left_odd,28,51,7
+#design: 0,0,left_odd,29,58,7
+#design: 0,0,left_odd,30,19,2
+#design: 0,0,left_odd,31,54,7
+#design: 0,0,left_odd,32,37,4
+#design: 0,0,left_odd,33,56,7
+#design: 0,0,left_odd,34,41,6
+#design: 0,0,left_odd,35,29,3
+#design: 0,0,left_odd,36,78,9
+#design: 0,0,left_odd,37,32,4
+#design: 0,0,left_odd,38,60,8
+#design: 0,0,left_odd,39,10,2
+#design: 0,0,left_odd,40,47,6
+#design: 0,0,left_odd,41,33,4
+#design: 0,0,left_odd,42,21,3
+#design: 0,0,left_odd,43,2,1
+#design: 0,0,left_odd,44,69,8
+#design: 0,0,left_odd,45,79,9
+#design: 0,0,left_odd,46,12,2
+#design: 0,0,left_odd,47,16,2
+#design: 0,0,left_odd,48,14,2
+#design: 0,0,left_odd,49,18,2
+#design: 0,0,left_odd,50,31,4
+#design: 0,0,left_odd,51,52,7
+#design: 0,0,left_odd,52,71,9
+#design: 0,0,left_odd,53,11,2
+#design: 0,0,left_odd,54,15,2
+#design: 0,0,left_odd,55,7,1
+#design: 0,0,left_odd,56,42,6
+#design: 0,0,left_odd,57,67,8
+#design: 0,0,left_odd,58,44,6
+#design: 0,0,left_odd,59,62,8
+#design: 0,0,left_odd,60,20,3
+#design: 0,0,left_odd,61,30,4
+#design: 0,0,left_odd,62,70,9
+#design: 0,0,left_odd,63,25,3
+#design: 0,0,left_odd,64,1,1
+#design: 0,0,left_odd,65,23,3
+#design: 0,0,left_odd,66,27,3
+#design: 0,0,left_odd,67,57,7
+#design: 0,0,left_odd,68,74,9
+#design: 0,0,left_odd,69,34,4
+#design: 0,0,left_odd,70,68,8
+#design: 0,0,left_odd,71,46,6
+#design: 0,0,left_odd,72,55,7
+#design: 0,0,left_odd,73,61,8
+#design: 0,0,left_odd,74,66,8
+#design: 0,0,left_odd,75,75,9
+#design: 0,0,left_odd,76,4,1
+#design: 0,0,left_odd,77,73,9
+#design: 0,0,left_odd,78,49,6
+#design: 0,0,left_odd,79,36,4
+#design: 1,1,right_odd,0,33,4
+#design: 1,1,right_odd,1,55,7
+#design: 1,1,right_odd,2,49,6
+#design: 1,1,right_odd,3,32,4
+#design: 1,1,right_odd,4,36,4
+#design: 1,1,right_odd,5,63,8
+#design: 1,1,right_odd,6,79,9
+#design: 1,1,right_odd,7,47,6
+#design: 1,1,right_odd,8,24,3
+#design: 1,1,right_odd,9,74,9
+#design: 1,1,right_odd,10,71,9
+#design: 1,1,right_odd,11,7,1
+#design: 1,1,right_odd,12,27,3
+#design: 1,1,right_odd,13,68,8
+#design: 1,1,right_odd,14,57,7
+#design: 1,1,right_odd,15,26,3
+#design: 1,1,right_odd,16,41,6
+#design: 1,1,right_odd,17,22,3
+#design: 1,1,right_odd,18,19,2
+#design: 1,1,right_odd,19,20,3
+#design: 1,1,right_odd,20,72,9
+#design: 1,1,right_odd,21,31,4
+#design: 1,1,right_odd,22,4,1
+#design: 1,1,right_odd,23,25,3
+#design: 1,1,right_odd,24,38,4
+#design: 1,1,right_odd,25,42,6
+#design: 1,1,right_odd,26,37,4
+#design: 1,1,right_odd,27,29,3
+#design: 1,1,right_odd,28,54,7
+#design: 1,1,right_odd,29,73,9
+#design: 1,1,right_odd,30,56,7
+#design: 1,1,right_odd,31,50,7
+#design: 1,1,right_odd,32,1,1
+#design: 1,1,right_odd,33,34,4
+#design: 1,1,right_odd,34,46,6
+#design: 1,1,right_odd,35,51,7
+#design: 1,1,right_odd,36,59,7
+#design: 1,1,right_odd,37,14,2
+#design: 1,1,right_odd,38,0,1
+#design: 1,1,right_odd,39,13,2
+#design: 1,1,right_odd,40,2,1
+#design: 1,1,right_odd,41,9,1
+#design: 1,1,right_odd,42,15,2
+#design: 1,1,right_odd,43,62,8
+#design: 1,1,right_odd,44,78,9
+#design: 1,1,right_odd,45,16,2
+#design: 1,1,right_odd,46,3,1
+#design: 1,1,right_odd,47,53,7
+#design: 1,1,right_odd,48,11,2
+#design: 1,1,right_odd,49,17,2
+#design: 1,1,right_odd,50,58,7
+#design: 1,1,right_odd,51,69,8
+#design: 1,1,right_odd,52,76,9
+#design: 1,1,right_odd,53,77,9
+#design: 1,1,right_odd,54,39,4
+#design: 1,1,right_odd,55,8,1
+#design: 1,1,right_odd,56,30,4
+#design: 1,1,right_odd,57,48,6
+#design: 1,1,right_odd,58,28,3
+#design: 1,1,right_odd,59,70,9
+#design: 1,1,right_odd,60,64,8
+#design: 1,1,right_odd,61,18,2
+#design: 1,1,right_odd,62,5,1
+#design: 1,1,right_odd,63,65,8
+#design: 1,1,right_odd,64,12,2
+#design: 1,1,right_odd,65,61,8
+#design: 1,1,right_odd,66,35,4
+#design: 1,1,right_odd,67,75,9
+#design: 1,1,right_odd,68,6,1
+#design: 1,1,right_odd,69,43,6
+#design: 1,1,right_odd,70,67,8
+#design: 1,1,right_odd,71,52,7
+#design: 1,1,right_odd,72,45,6
+#design: 1,1,right_odd,73,40,6
+#design: 1,1,right_odd,74,44,6
+#design: 1,1,right_odd,75,23,3
+#design: 1,1,right_odd,76,60,8
+#design: 1,1,right_odd,77,21,3
+#design: 1,1,right_odd,78,66,8
+#design: 1,1,right_odd,79,10,2
+13167,design,logged,
+13167,Experiment,started
+13244,Stimulus,presented,4
+19062,Keyboard,received,32,wait
+19066,Stimulus,presented,1
+19569,Stimulus,presented,0
+20216,Stimulus,presented,5
+21558,Keyboard,received,276,wait
+21558,Stimulus,presented,0
+21562,Data,saved
+22561,Stimulus,presented,1
+23063,Stimulus,presented,0
+23481,Stimulus,presented,6
+37917,Keyboard,received,275,wait
+37918,Stimulus,presented,0
+37921,Data,saved
+38921,Stimulus,presented,1
+39423,Stimulus,presented,0
+39979,Stimulus,presented,7
+42150,Keyboard,received,276,wait
+42150,Stimulus,presented,0
+42153,Data,saved
+43153,Stimulus,presented,1
+43655,Stimulus,presented,0
+44236,Stimulus,presented,8
+74405,Keyboard,received,276,wait
+74406,Stimulus,presented,0
+74409,Stimulus,played,b'/tmp/expyriment_ksb8k5qt/freq2000_dur200.0_84lbeldi.wav'
+76409,Data,saved
+77409,Stimulus,presented,1
+77911,Stimulus,presented,0
+78369,Stimulus,presented,9
+322565,Experiment,paused
+322567,Stimulus,presented,10
+324430,Keyboard,received,b'y',wait_char
+324430,Experiment,ended
+324432,Stimulus,presented,10

@@ -1,0 +1,15 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 15:33:40
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+258,stdout,received,'LEVEL 1'
+263,stdout,received,"[5, '-', 1, '-', 7, '-', 8, '+', 5]"
+263,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7fc59c0990f0>]'
+5263,stdout,received,'LEVEL 2'
+5267,stdout,received,"[5, '-', 1, '-', 7, '-', 8, '+', 5, 4, '+', 8, '-', 7, '-', 2, '+', 6]"
+5267,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7fc59c0996a0>]'
+15267,Experiment,ended
+15270,Stimulus,presented,11

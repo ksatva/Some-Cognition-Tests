@@ -1,0 +1,47 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 17:02:54
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+11131,design,log,
+#design: #exp: n-back test
+#design: #dvn: b,LEVEL,t,COLOR,ISI,btn
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,2,green
+#design: 0,0,LEVEL 1,1,1,red
+#design: 0,0,LEVEL 1,2,5,blue
+#design: 0,0,LEVEL 1,3,4,blue
+#design: 0,0,LEVEL 1,4,6,yellow
+#design: 0,0,LEVEL 1,5,0,red
+#design: 0,0,LEVEL 1,6,3,green
+#design: 0,0,LEVEL 1,7,7,yellow
+#design: 1,1,LEVEL 2,0,4,blue
+#design: 1,1,LEVEL 2,1,1,red
+#design: 1,1,LEVEL 2,2,6,yellow
+#design: 1,1,LEVEL 2,3,3,green
+#design: 1,1,LEVEL 2,4,5,blue
+#design: 1,1,LEVEL 2,5,7,yellow
+#design: 1,1,LEVEL 2,6,2,green
+#design: 1,1,LEVEL 2,7,0,red
+11131,design,logged,
+11132,Experiment,started
+11141,stderr,received,'Traceback (most recent call last):'
+11141,stderr,received,'  File "nbacktask_copy.py", line 72, in <module>'
+11141,stderr,received,'    stimuli.TextScreen("Instructions",block.get_factor("Level")).present()'
+11141,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_visual.py", line 1028, in present'
+11142,stderr,received,'    self.preload(inhibit_ogl_compress=True)'
+11142,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_visual.py", line 916, in preload'
+11142,stderr,received,'    self._get_surface(),'
+11142,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_visual.py", line 404, in _get_surface'
+11142,stderr,received,'    tmp = self._create_surface()'
+11143,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_textscreen.py", line 492, in _create_surface'
+11143,stderr,received,'    surface.blit(box._get_surface(),'
+11143,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_visual.py", line 404, in _get_surface'
+11143,stderr,received,'    tmp = self._create_surface()'
+11144,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/stimuli/_textbox.py", line 340, in _create_surface'
+11160,stderr,received,"    _text = byte2unicode(self.text).encode('latin-1')"
+11160,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/misc/_miscellaneous.py", line 85, in byte2unicode'
+11165,stderr,received,'    u = s.decode(LOCALE_ENC)'
+11165,stderr,received,"AttributeError: 'NoneType' object has no attribute 'decode'"

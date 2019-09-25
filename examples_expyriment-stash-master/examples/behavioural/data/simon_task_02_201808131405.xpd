@@ -1,0 +1,126 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpd-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 14:05:24
+#--EXPERIMENT INFO
+#e mainfile: simon_task.py
+#e sha1: None
+#e modules: 
+#e Experiment: Simon Task
+#e between subject factors (permutation type: latin square)
+#e     OrderOfMapping = [1, 2]
+#e Block 0: unnamed
+#e     block factors: Mapping = left4green
+#e     n trials: 80
+#e     trial factors: Position = [left, right]
+#e                    Colour = [green, red]
+#e                    
+#e Block 1: unnamed
+#e     block factors: Mapping = left4red
+#e     n trials: 80
+#e     trial factors: Position = [left, right]
+#e                    Colour = [green, red]
+#e                    
+#--SUBJECT INFO
+#s id: 2
+#s b'OrderOfMapping' = 2
+subject_id,Mapping,Colour,Position,Button,RT
+2,left4red,red,left,276,729
+2,left4red,red,left,276,411
+2,left4red,green,right,275,5428
+2,left4red,green,left,275,2001
+2,left4red,green,right,275,708
+2,left4red,red,right,276,1115
+2,left4red,red,right,276,1091
+2,left4red,red,right,276,3083
+2,left4red,green,right,275,564
+2,left4red,red,right,276,2419
+2,left4red,red,right,276,659
+2,left4red,green,left,275,595
+2,left4red,red,left,276,539
+2,left4red,red,left,276,428
+2,left4red,red,left,276,307
+2,left4red,red,right,275,387
+2,left4red,green,right,275,1284
+2,left4red,green,right,275,348
+2,left4red,green,right,275,292
+2,left4red,red,right,275,307
+2,left4red,green,left,276,572
+2,left4red,green,left,276,787
+2,left4red,green,left,275,492
+2,left4red,red,right,276,787
+2,left4red,red,left,276,356
+2,left4red,red,left,276,340
+2,left4red,red,right,275,451
+2,left4red,red,left,276,371
+2,left4red,green,left,276,675
+2,left4red,red,right,276,435
+2,left4red,green,left,276,291
+2,left4red,green,right,275,212
+2,left4red,red,right,276,235
+2,left4red,green,right,276,211
+2,left4red,red,left,276,3
+2,left4red,green,right,275,389660
+2,left4red,red,right,275,410
+2,left4red,green,left,275,91
+2,left4red,red,left,275,219
+2,left4red,red,left,275,124
+2,left4red,red,left,275,180
+2,left4red,green,right,275,244
+2,left4red,red,left,275,243
+2,left4red,red,right,275,252
+2,left4red,red,left,275,204
+2,left4red,green,right,275,227
+2,left4red,green,left,275,244
+2,left4red,green,right,275,260
+2,left4red,green,right,275,244
+2,left4red,green,left,275,148
+2,left4red,red,left,275,172
+2,left4red,green,left,275,99
+2,left4red,green,left,275,2
+2,left4red,red,right,275,5
+2,left4red,red,left,275,283
+2,left4red,green,right,275,3764
+2,left4red,green,left,275,523
+2,left4red,red,right,275,3708
+2,left4red,red,right,275,156
+2,left4red,red,right,275,252
+2,left4red,red,left,275,324
+2,left4red,green,right,275,147
+2,left4red,green,right,275,716
+2,left4red,red,right,275,260
+2,left4red,green,right,275,140
+2,left4red,red,right,275,140
+2,left4red,red,right,275,2
+2,left4red,green,left,275,53
+2,left4red,green,right,275,58
+2,left4red,green,left,275,292
+2,left4red,green,left,275,475
+2,left4red,green,left,275,2
+2,left4red,green,left,275,381
+2,left4red,red,left,275,181
+2,left4red,green,right,275,74
+2,left4red,green,left,275,76
+2,left4red,green,left,275,2
+2,left4red,red,left,275,380
+2,left4red,red,left,275,2
+2,left4red,green,right,275,5197
+2,left4green,green,right,275,2
+2,left4green,green,left,275,977
+2,left4green,red,left,275,2
+2,left4green,red,left,275,180
+2,left4green,green,left,275,202
+2,left4green,green,right,275,91
+2,left4green,green,right,275,116
+2,left4green,red,right,275,74
+2,left4green,red,left,275,3
+2,left4green,red,left,275,261
+2,left4green,green,right,275,315
+2,left4green,green,right,275,146
+2,left4green,green,right,275,330
+2,left4green,green,right,275,3
+2,left4green,red,right,275,194
+2,left4green,green,left,275,58
+2,left4green,green,left,275,188
+2,left4green,red,right,275,2
+2,left4green,green,left,275,276
+2,left4green,green,right,275,75
+2,left4green,red,right,275,43

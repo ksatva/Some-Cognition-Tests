@@ -1,0 +1,205 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 20 2018 02:33:09
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+3865,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,0,blue
+#design: 0,0,LEVEL 1,1,1,blue
+#design: 0,0,LEVEL 1,2,2,red
+#design: 0,0,LEVEL 1,3,3,red
+#design: 0,0,LEVEL 1,4,4,red
+#design: 0,0,LEVEL 1,5,5,red
+#design: 0,0,LEVEL 1,6,6,green
+#design: 0,0,LEVEL 1,7,7,green
+#design: 0,0,LEVEL 1,8,8,green
+#design: 0,0,LEVEL 1,9,9,green
+#design: 0,0,LEVEL 1,10,10,yellow
+#design: 0,0,LEVEL 1,11,11,yellow
+#design: 0,0,LEVEL 1,12,12,blue
+#design: 0,0,LEVEL 1,13,13,blue
+#design: 0,0,LEVEL 1,14,14,yellow
+#design: 0,0,LEVEL 1,15,15,yellow
+#design: 0,0,LEVEL 1,16,16,red
+#design: 0,0,LEVEL 1,17,17,red
+#design: 0,0,LEVEL 1,18,18,blue
+#design: 0,0,LEVEL 1,19,19,blue
+#design: 0,0,LEVEL 1,20,20,yellow
+#design: 0,0,LEVEL 1,21,21,yellow
+#design: 0,0,LEVEL 1,22,22,blue
+#design: 0,0,LEVEL 1,23,23,blue
+#design: 0,0,LEVEL 1,24,24,blue
+#design: 0,0,LEVEL 1,25,25,blue
+#design: 0,0,LEVEL 1,26,26,green
+#design: 0,0,LEVEL 1,27,27,green
+#design: 0,0,LEVEL 1,28,28,red
+#design: 0,0,LEVEL 1,29,29,red
+#design: 0,0,LEVEL 1,30,30,blue
+#design: 0,0,LEVEL 1,31,31,blue
+#design: 0,0,LEVEL 1,32,32,red
+#design: 0,0,LEVEL 1,33,33,red
+#design: 0,0,LEVEL 1,34,34,red
+#design: 0,0,LEVEL 1,35,35,red
+#design: 0,0,LEVEL 1,36,36,blue
+#design: 0,0,LEVEL 1,37,37,blue
+#design: 0,0,LEVEL 1,38,38,red
+#design: 0,0,LEVEL 1,39,39,red
+#design: 0,0,LEVEL 1,40,40,yellow
+#design: 0,0,LEVEL 1,41,41,yellow
+#design: 0,0,LEVEL 1,42,42,red
+#design: 0,0,LEVEL 1,43,43,red
+#design: 0,0,LEVEL 1,44,44,red
+#design: 0,0,LEVEL 1,45,45,red
+#design: 0,0,LEVEL 1,46,46,red
+#design: 0,0,LEVEL 1,47,47,red
+3866,design,logged,
+3866,Experiment,started
+3867,Stimulus,presented,0
+4368,Stimulus,presented,1
+4874,Keyboard,received,32,wait
+7370,Stimulus,presented,0
+7872,Stimulus,presented,1
+9930,Keyboard,received,32,wait
+10874,Stimulus,presented,0
+11376,Stimulus,presented,2
+14378,Keyboard,received,None,wait
+14378,Stimulus,presented,0
+14880,Stimulus,presented,2
+17882,Keyboard,received,None,wait
+17882,Stimulus,presented,0
+18384,Stimulus,presented,3
+18744,Keyboard,received,32,wait
+21386,Stimulus,presented,0
+21888,Stimulus,presented,3
+23789,Keyboard,received,32,wait
+24891,Stimulus,presented,0
+25392,Stimulus,presented,4
+26715,Keyboard,received,32,wait
+28393,Stimulus,presented,0
+28895,Stimulus,presented,4
+29535,Keyboard,received,32,wait
+31897,Stimulus,presented,0
+32399,Stimulus,presented,5
+32888,Keyboard,received,32,wait
+35401,Stimulus,presented,0
+35903,Stimulus,presented,5
+36275,Keyboard,received,32,wait
+38906,Stimulus,presented,0
+39408,Stimulus,presented,6
+41254,Keyboard,received,32,wait
+42410,Stimulus,presented,0
+42912,Stimulus,presented,6
+45914,Keyboard,received,None,wait
+45914,Stimulus,presented,0
+46416,Stimulus,presented,7
+49417,Keyboard,received,None,wait
+49418,Stimulus,presented,0
+49920,Stimulus,presented,7
+52921,Keyboard,received,None,wait
+52923,Stimulus,presented,0
+53425,Stimulus,presented,8
+56427,Keyboard,received,None,wait
+56427,Stimulus,presented,0
+56929,Stimulus,presented,8
+59930,Keyboard,received,None,wait
+59931,Stimulus,presented,0
+60432,Stimulus,presented,9
+63434,Keyboard,received,None,wait
+63435,Stimulus,presented,0
+63937,Stimulus,presented,9
+66940,Keyboard,received,None,wait
+66940,Stimulus,presented,0
+67442,Stimulus,presented,10
+70445,Keyboard,received,None,wait
+70445,Stimulus,presented,0
+70947,Stimulus,presented,10
+73948,Keyboard,received,None,wait
+73949,Stimulus,presented,0
+74451,Stimulus,presented,11
+77452,Keyboard,received,None,wait
+77453,Stimulus,presented,0
+77954,Stimulus,presented,11
+80955,Keyboard,received,None,wait
+80956,Stimulus,presented,0
+81458,Stimulus,presented,12
+84459,Keyboard,received,None,wait
+84460,Stimulus,presented,0
+84961,Stimulus,presented,12
+87962,Keyboard,received,None,wait
+87963,Stimulus,presented,0
+88465,Stimulus,presented,13
+91467,Keyboard,received,None,wait
+91468,Stimulus,presented,0
+91969,Stimulus,presented,13
+94971,Keyboard,received,None,wait
+94972,Stimulus,presented,0
+95474,Stimulus,presented,14
+98476,Keyboard,received,None,wait
+98476,Stimulus,presented,0
+98978,Stimulus,presented,14
+101980,Keyboard,received,None,wait
+101980,Stimulus,presented,0
+102482,Stimulus,presented,15
+105484,Keyboard,received,None,wait
+105484,Stimulus,presented,0
+105986,Stimulus,presented,15
+108987,Keyboard,received,None,wait
+108988,Stimulus,presented,0
+109490,Stimulus,presented,16
+112491,Keyboard,received,None,wait
+112492,Stimulus,presented,0
+112993,Stimulus,presented,16
+115994,Keyboard,received,None,wait
+115995,Stimulus,presented,0
+116496,Stimulus,presented,17
+119498,Keyboard,received,None,wait
+119498,Stimulus,presented,0
+120000,Stimulus,presented,17
+123002,Keyboard,received,None,wait
+123002,Stimulus,presented,0
+123504,Stimulus,presented,18
+126505,Keyboard,received,None,wait
+126506,Stimulus,presented,0
+127008,Stimulus,presented,18
+130009,Keyboard,received,None,wait
+130010,Stimulus,presented,0
+130512,Stimulus,presented,19
+133514,Keyboard,received,None,wait
+133514,Stimulus,presented,0
+134016,Stimulus,presented,19
+137018,Keyboard,received,None,wait
+137019,Stimulus,presented,0
+137520,Stimulus,presented,20
+140521,Keyboard,received,None,wait
+140522,Stimulus,presented,0
+141023,Stimulus,presented,20
+144025,Keyboard,received,None,wait
+144025,Stimulus,presented,0
+144527,Stimulus,presented,21
+147528,Keyboard,received,None,wait
+147529,Stimulus,presented,0
+148031,Stimulus,presented,21
+151033,Keyboard,received,None,wait
+151033,Stimulus,presented,0
+151535,Stimulus,presented,22
+154537,Keyboard,received,None,wait
+154537,Stimulus,presented,0
+155039,Stimulus,presented,22
+158041,Keyboard,received,None,wait
+158041,Stimulus,presented,0
+158543,Stimulus,presented,23
+161545,Keyboard,received,None,wait
+161546,Stimulus,presented,0
+162047,Stimulus,presented,23
+165048,Keyboard,received,None,wait
+165049,Stimulus,presented,0
+165551,Stimulus,presented,24
+168552,Keyboard,received,None,wait
+168553,Stimulus,presented,0
+169055,Stimulus,presented,24
+172057,Keyboard,received,None,wait
+172057,Experiment,ended

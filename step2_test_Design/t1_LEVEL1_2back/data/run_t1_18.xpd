@@ -1,0 +1,16 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpd-file, coding: ISO8859-1
+#date: Thu Aug 30 2018 20:00:03
+#--EXPERIMENT INFO
+#e mainfile: run_t1.py
+#e sha1: None
+#e modules: 
+#e Experiment: trial no. _00
+#e no between subject factors
+#e Block 0: name
+#e     block factors: level = name
+#e     n trials: 30
+#e     trial factors: COLOR = [blue, green, red, yellow]
+#e                    
+#--SUBJECT INFO
+#s id: 18
+subject_id,

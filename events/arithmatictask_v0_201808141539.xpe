@@ -1,0 +1,21 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 15:39:04
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+262,stdout,received,'LEVEL 1'
+264,Stimulus,presented,1
+1267,Stimulus,presented,2
+2270,Stimulus,presented,3
+3273,Stimulus,presented,4
+4273,stdout,received,"[4, '-', 3, '-', 9, '-', 2, '-', 1]"
+9273,stdout,received,'LEVEL 2'
+9275,Stimulus,presented,5
+10278,Stimulus,presented,6
+11281,Stimulus,presented,7
+12284,Stimulus,presented,8
+13285,stdout,received,"[4, '-', 3, '-', 9, '-', 2, '-', 1, 7, '-', 9, '+', 7, '+', 7, '-', 9]"
+23285,Experiment,ended
+23288,Stimulus,presented,9

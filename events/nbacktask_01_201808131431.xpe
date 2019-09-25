@@ -1,0 +1,29 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 14:31:41
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+107502,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 0,0,2,2
+#design: 0,0,3,3
+#design: 0,0,4,4
+107502,design,logged,
+107502,Experiment,started
+107503,Stimulus,presented,0
+108505,Stimulus,presented,1
+109507,Stimulus,presented,0
+110509,Stimulus,presented,1
+111511,Stimulus,presented,0
+112513,Stimulus,presented,1
+113515,Stimulus,presented,0
+114517,Stimulus,presented,1
+115518,Stimulus,presented,0
+116519,Stimulus,presented,1
+117521,Experiment,ended
+117523,Stimulus,presented,3

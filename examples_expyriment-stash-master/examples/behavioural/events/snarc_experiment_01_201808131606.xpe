@@ -1,0 +1,182 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 16:06:53
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+16947,design,log,
+#design: #exp: SNARC
+#design: #xpi: This a just a SNARC experiment.
+#design: #bws: mapping_order=left_odd_first,right_odd_first
+#design: #bws-rand: 0
+#design: #dvn: block,mapping,trial,digit,ISI,btn,RT,error
+#design: block_cnt,block_id,block_mapping,trial_cnt,trial_id,digit
+#design: 0,0,left_odd,0,14,2
+#design: 0,0,left_odd,1,46,6
+#design: 0,0,left_odd,2,66,8
+#design: 0,0,left_odd,3,70,9
+#design: 0,0,left_odd,4,25,3
+#design: 0,0,left_odd,5,65,8
+#design: 0,0,left_odd,6,42,6
+#design: 0,0,left_odd,7,39,4
+#design: 0,0,left_odd,8,49,6
+#design: 0,0,left_odd,9,29,3
+#design: 0,0,left_odd,10,61,8
+#design: 0,0,left_odd,11,2,1
+#design: 0,0,left_odd,12,5,1
+#design: 0,0,left_odd,13,35,4
+#design: 0,0,left_odd,14,37,4
+#design: 0,0,left_odd,15,44,6
+#design: 0,0,left_odd,16,27,3
+#design: 0,0,left_odd,17,12,2
+#design: 0,0,left_odd,18,13,2
+#design: 0,0,left_odd,19,79,9
+#design: 0,0,left_odd,20,71,9
+#design: 0,0,left_odd,21,16,2
+#design: 0,0,left_odd,22,33,4
+#design: 0,0,left_odd,23,63,8
+#design: 0,0,left_odd,24,74,9
+#design: 0,0,left_odd,25,52,7
+#design: 0,0,left_odd,26,15,2
+#design: 0,0,left_odd,27,26,3
+#design: 0,0,left_odd,28,64,8
+#design: 0,0,left_odd,29,11,2
+#design: 0,0,left_odd,30,55,7
+#design: 0,0,left_odd,31,18,2
+#design: 0,0,left_odd,32,34,4
+#design: 0,0,left_odd,33,32,4
+#design: 0,0,left_odd,34,24,3
+#design: 0,0,left_odd,35,57,7
+#design: 0,0,left_odd,36,19,2
+#design: 0,0,left_odd,37,10,2
+#design: 0,0,left_odd,38,45,6
+#design: 0,0,left_odd,39,30,4
+#design: 0,0,left_odd,40,38,4
+#design: 0,0,left_odd,41,69,8
+#design: 0,0,left_odd,42,43,6
+#design: 0,0,left_odd,43,72,9
+#design: 0,0,left_odd,44,9,1
+#design: 0,0,left_odd,45,6,1
+#design: 0,0,left_odd,46,31,4
+#design: 0,0,left_odd,47,56,7
+#design: 0,0,left_odd,48,53,7
+#design: 0,0,left_odd,49,54,7
+#design: 0,0,left_odd,50,41,6
+#design: 0,0,left_odd,51,20,3
+#design: 0,0,left_odd,52,22,3
+#design: 0,0,left_odd,53,7,1
+#design: 0,0,left_odd,54,73,9
+#design: 0,0,left_odd,55,36,4
+#design: 0,0,left_odd,56,68,8
+#design: 0,0,left_odd,57,78,9
+#design: 0,0,left_odd,58,8,1
+#design: 0,0,left_odd,59,76,9
+#design: 0,0,left_odd,60,51,7
+#design: 0,0,left_odd,61,77,9
+#design: 0,0,left_odd,62,28,3
+#design: 0,0,left_odd,63,0,1
+#design: 0,0,left_odd,64,50,7
+#design: 0,0,left_odd,65,4,1
+#design: 0,0,left_odd,66,59,7
+#design: 0,0,left_odd,67,23,3
+#design: 0,0,left_odd,68,48,6
+#design: 0,0,left_odd,69,47,6
+#design: 0,0,left_odd,70,62,8
+#design: 0,0,left_odd,71,75,9
+#design: 0,0,left_odd,72,60,8
+#design: 0,0,left_odd,73,58,7
+#design: 0,0,left_odd,74,67,8
+#design: 0,0,left_odd,75,21,3
+#design: 0,0,left_odd,76,40,6
+#design: 0,0,left_odd,77,17,2
+#design: 0,0,left_odd,78,1,1
+#design: 0,0,left_odd,79,3,1
+#design: 1,1,right_odd,0,34,4
+#design: 1,1,right_odd,1,6,1
+#design: 1,1,right_odd,2,44,6
+#design: 1,1,right_odd,3,31,4
+#design: 1,1,right_odd,4,64,8
+#design: 1,1,right_odd,5,71,9
+#design: 1,1,right_odd,6,22,3
+#design: 1,1,right_odd,7,0,1
+#design: 1,1,right_odd,8,24,3
+#design: 1,1,right_odd,9,25,3
+#design: 1,1,right_odd,10,37,4
+#design: 1,1,right_odd,11,69,8
+#design: 1,1,right_odd,12,38,4
+#design: 1,1,right_odd,13,12,2
+#design: 1,1,right_odd,14,23,3
+#design: 1,1,right_odd,15,63,8
+#design: 1,1,right_odd,16,48,6
+#design: 1,1,right_odd,17,10,2
+#design: 1,1,right_odd,18,35,4
+#design: 1,1,right_odd,19,32,4
+#design: 1,1,right_odd,20,79,9
+#design: 1,1,right_odd,21,20,3
+#design: 1,1,right_odd,22,74,9
+#design: 1,1,right_odd,23,73,9
+#design: 1,1,right_odd,24,60,8
+#design: 1,1,right_odd,25,53,7
+#design: 1,1,right_odd,26,5,1
+#design: 1,1,right_odd,27,7,1
+#design: 1,1,right_odd,28,45,6
+#design: 1,1,right_odd,29,19,2
+#design: 1,1,right_odd,30,33,4
+#design: 1,1,right_odd,31,8,1
+#design: 1,1,right_odd,32,18,2
+#design: 1,1,right_odd,33,55,7
+#design: 1,1,right_odd,34,11,2
+#design: 1,1,right_odd,35,16,2
+#design: 1,1,right_odd,36,75,9
+#design: 1,1,right_odd,37,47,6
+#design: 1,1,right_odd,38,42,6
+#design: 1,1,right_odd,39,15,2
+#design: 1,1,right_odd,40,3,1
+#design: 1,1,right_odd,41,68,8
+#design: 1,1,right_odd,42,49,6
+#design: 1,1,right_odd,43,56,7
+#design: 1,1,right_odd,44,65,8
+#design: 1,1,right_odd,45,41,6
+#design: 1,1,right_odd,46,62,8
+#design: 1,1,right_odd,47,57,7
+#design: 1,1,right_odd,48,50,7
+#design: 1,1,right_odd,49,21,3
+#design: 1,1,right_odd,50,54,7
+#design: 1,1,right_odd,51,26,3
+#design: 1,1,right_odd,52,36,4
+#design: 1,1,right_odd,53,43,6
+#design: 1,1,right_odd,54,59,7
+#design: 1,1,right_odd,55,52,7
+#design: 1,1,right_odd,56,66,8
+#design: 1,1,right_odd,57,76,9
+#design: 1,1,right_odd,58,1,1
+#design: 1,1,right_odd,59,51,7
+#design: 1,1,right_odd,60,72,9
+#design: 1,1,right_odd,61,70,9
+#design: 1,1,right_odd,62,30,4
+#design: 1,1,right_odd,63,29,3
+#design: 1,1,right_odd,64,28,3
+#design: 1,1,right_odd,65,46,6
+#design: 1,1,right_odd,66,14,2
+#design: 1,1,right_odd,67,2,1
+#design: 1,1,right_odd,68,4,1
+#design: 1,1,right_odd,69,58,7
+#design: 1,1,right_odd,70,61,8
+#design: 1,1,right_odd,71,17,2
+#design: 1,1,right_odd,72,13,2
+#design: 1,1,right_odd,73,27,3
+#design: 1,1,right_odd,74,9,1
+#design: 1,1,right_odd,75,67,8
+#design: 1,1,right_odd,76,78,9
+#design: 1,1,right_odd,77,77,9
+#design: 1,1,right_odd,78,40,6
+#design: 1,1,right_odd,79,39,4
+16949,design,logged,
+16949,Experiment,started
+17027,Stimulus,presented,4
+31467,Experiment,paused
+31472,Stimulus,presented,5
+32859,Keyboard,received,b'y',wait_char
+32859,Experiment,ended
+32865,Stimulus,presented,5

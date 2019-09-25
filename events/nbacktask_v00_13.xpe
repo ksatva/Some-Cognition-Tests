@@ -1,0 +1,193 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 20 2018 01:33:51
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+2236,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,0,red
+#design: 0,0,LEVEL 1,1,1,red
+#design: 0,0,LEVEL 1,2,2,yellow
+#design: 0,0,LEVEL 1,3,3,yellow
+#design: 0,0,LEVEL 1,4,4,blue
+#design: 0,0,LEVEL 1,5,5,blue
+#design: 0,0,LEVEL 1,6,6,green
+#design: 0,0,LEVEL 1,7,7,green
+#design: 0,0,LEVEL 1,8,8,yellow
+#design: 0,0,LEVEL 1,9,9,yellow
+#design: 0,0,LEVEL 1,10,10,green
+#design: 0,0,LEVEL 1,11,11,green
+#design: 0,0,LEVEL 1,12,12,yellow
+#design: 0,0,LEVEL 1,13,13,yellow
+#design: 0,0,LEVEL 1,14,14,yellow
+#design: 0,0,LEVEL 1,15,15,yellow
+#design: 0,0,LEVEL 1,16,16,red
+#design: 0,0,LEVEL 1,17,17,red
+#design: 0,0,LEVEL 1,18,18,red
+#design: 0,0,LEVEL 1,19,19,red
+#design: 0,0,LEVEL 1,20,20,blue
+#design: 0,0,LEVEL 1,21,21,blue
+#design: 0,0,LEVEL 1,22,22,red
+#design: 0,0,LEVEL 1,23,23,red
+#design: 0,0,LEVEL 1,24,24,red
+#design: 0,0,LEVEL 1,25,25,red
+#design: 0,0,LEVEL 1,26,26,blue
+#design: 0,0,LEVEL 1,27,27,blue
+#design: 0,0,LEVEL 1,28,28,blue
+#design: 0,0,LEVEL 1,29,29,blue
+#design: 0,0,LEVEL 1,30,30,red
+#design: 0,0,LEVEL 1,31,31,red
+#design: 0,0,LEVEL 1,32,32,blue
+#design: 0,0,LEVEL 1,33,33,blue
+#design: 0,0,LEVEL 1,34,34,red
+#design: 0,0,LEVEL 1,35,35,red
+#design: 0,0,LEVEL 1,36,36,yellow
+#design: 0,0,LEVEL 1,37,37,yellow
+#design: 0,0,LEVEL 1,38,38,green
+#design: 0,0,LEVEL 1,39,39,green
+#design: 0,0,LEVEL 1,40,40,yellow
+#design: 0,0,LEVEL 1,41,41,yellow
+#design: 0,0,LEVEL 1,42,42,green
+#design: 0,0,LEVEL 1,43,43,green
+#design: 0,0,LEVEL 1,44,44,blue
+#design: 0,0,LEVEL 1,45,45,blue
+#design: 0,0,LEVEL 1,46,46,red
+#design: 0,0,LEVEL 1,47,47,red
+#design: 0,0,LEVEL 1,48,48,blue
+#design: 0,0,LEVEL 1,49,49,blue
+#design: 0,0,LEVEL 1,50,50,red
+#design: 0,0,LEVEL 1,51,51,red
+#design: 0,0,LEVEL 1,52,52,yellow
+#design: 0,0,LEVEL 1,53,53,yellow
+#design: 0,0,LEVEL 1,54,54,green
+#design: 0,0,LEVEL 1,55,55,green
+#design: 0,0,LEVEL 1,56,56,blue
+#design: 0,0,LEVEL 1,57,57,blue
+#design: 0,0,LEVEL 1,58,58,green
+#design: 0,0,LEVEL 1,59,59,green
+2237,design,logged,
+2237,Experiment,started
+2238,Stimulus,presented,0
+2241,Stimulus,presented,1
+2250,Stimulus,presented,0
+2268,Stimulus,presented,1
+2283,Stimulus,presented,0
+2301,Stimulus,presented,2
+2317,Stimulus,presented,0
+2334,Stimulus,presented,2
+2350,Stimulus,presented,0
+2367,Stimulus,presented,3
+2383,Stimulus,presented,0
+2401,Stimulus,presented,3
+2416,Stimulus,presented,0
+2434,Stimulus,presented,4
+2450,Stimulus,presented,0
+2467,Stimulus,presented,4
+2483,Stimulus,presented,0
+2501,Stimulus,presented,5
+2516,Stimulus,presented,0
+2534,Stimulus,presented,5
+2550,Stimulus,presented,0
+2567,Stimulus,presented,6
+2583,Stimulus,presented,0
+2601,Stimulus,presented,6
+2616,Stimulus,presented,0
+2634,Stimulus,presented,7
+2650,Stimulus,presented,0
+2667,Stimulus,presented,7
+2683,Stimulus,presented,0
+2701,Stimulus,presented,8
+2716,Stimulus,presented,0
+2734,Stimulus,presented,8
+2750,Stimulus,presented,0
+2768,Stimulus,presented,9
+2783,Stimulus,presented,0
+2801,Stimulus,presented,9
+2816,Stimulus,presented,0
+2834,Stimulus,presented,10
+2850,Stimulus,presented,0
+2867,Stimulus,presented,10
+2883,Stimulus,presented,0
+2901,Stimulus,presented,11
+2916,Stimulus,presented,0
+2934,Stimulus,presented,11
+2950,Stimulus,presented,0
+2967,Stimulus,presented,12
+2983,Stimulus,presented,0
+3000,Stimulus,presented,12
+3016,Stimulus,presented,0
+3034,Stimulus,presented,13
+3050,Stimulus,presented,0
+3067,Stimulus,presented,13
+3083,Stimulus,presented,0
+3100,Stimulus,presented,14
+3116,Stimulus,presented,0
+3134,Stimulus,presented,14
+3150,Stimulus,presented,0
+3167,Stimulus,presented,15
+3183,Stimulus,presented,0
+3200,Stimulus,presented,15
+3216,Stimulus,presented,0
+3234,Stimulus,presented,16
+3250,Stimulus,presented,0
+3267,Stimulus,presented,16
+3283,Stimulus,presented,0
+3300,Stimulus,presented,17
+3316,Stimulus,presented,0
+3334,Stimulus,presented,17
+3350,Stimulus,presented,0
+3367,Stimulus,presented,18
+3383,Stimulus,presented,0
+3400,Stimulus,presented,18
+3416,Stimulus,presented,0
+3434,Stimulus,presented,19
+3450,Stimulus,presented,0
+3467,Stimulus,presented,19
+3483,Stimulus,presented,0
+3501,Stimulus,presented,20
+3516,Stimulus,presented,0
+3534,Stimulus,presented,20
+3550,Stimulus,presented,0
+3567,Stimulus,presented,21
+3583,Stimulus,presented,0
+3601,Stimulus,presented,21
+3616,Stimulus,presented,0
+3634,Stimulus,presented,22
+3650,Stimulus,presented,0
+3667,Stimulus,presented,22
+3683,Stimulus,presented,0
+3701,Stimulus,presented,23
+3716,Stimulus,presented,0
+3734,Stimulus,presented,23
+3750,Stimulus,presented,0
+3767,Stimulus,presented,24
+3783,Stimulus,presented,0
+3800,Stimulus,presented,24
+3816,Stimulus,presented,0
+3834,Stimulus,presented,25
+3850,Stimulus,presented,0
+3867,Stimulus,presented,25
+3883,Stimulus,presented,0
+3901,Stimulus,presented,26
+3916,Stimulus,presented,0
+3934,Stimulus,presented,26
+3950,Stimulus,presented,0
+3967,Stimulus,presented,27
+3983,Stimulus,presented,0
+4000,Stimulus,presented,27
+4016,Stimulus,presented,0
+4034,Stimulus,presented,28
+4050,Stimulus,presented,0
+4067,Stimulus,presented,28
+4083,Stimulus,presented,0
+4100,Stimulus,presented,29
+4116,Stimulus,presented,0
+4134,Stimulus,presented,29
+4150,Stimulus,presented,0
+4167,Stimulus,presented,30
+4183,Stimulus,presented,0
+4201,Stimulus,presented,30
+4202,Experiment,ended

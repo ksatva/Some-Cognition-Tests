@@ -1,0 +1,19 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 22:38:37
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+268,stdout,received,'LEVEL 1'
+269,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 8\n    trial IDs = [1, 6, 2, 3, 4, 0, 5, 7]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+269,stdout,received,'LEVEL 2'
+270,stdout,received,'Block None: LEVEL 2\n    block factors: LEVEL = LEVEL 2\n    n trials: 8\n    trial IDs = [5, 4, 6, 0, 7, 1, 2, 3]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+28484,stderr,received,'Traceback (most recent call last):'
+28484,stderr,received,'  File "nbacktask_v0.py", line 39, in <module>'
+28484,stderr,received,'    control.start()'
+28484,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 215, in start'
+28503,stderr,received,'    experiment.keyboard.wait()'
+28503,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/io/_keyboard.py", line 307, in wait'
+28506,stderr,received,'    time.sleep(0.0005)'
+28506,stderr,received,'KeyboardInterrupt'

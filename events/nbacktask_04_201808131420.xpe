@@ -1,0 +1,74 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 14:20:42
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+19189,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 0,0,2,2
+#design: 0,0,3,3
+#design: 0,0,4,4
+#design: 0,0,5,5
+#design: 0,0,6,6
+#design: 0,0,7,7
+#design: 0,0,8,8
+#design: 0,0,9,9
+#design: 0,0,10,10
+#design: 0,0,11,11
+#design: 0,0,12,12
+#design: 0,0,13,13
+#design: 0,0,14,14
+#design: 0,0,15,15
+#design: 0,0,16,16
+#design: 0,0,17,17
+#design: 0,0,18,18
+#design: 0,0,19,19
+19189,design,logged,
+19189,Experiment,started
+19190,Stimulus,presented,0
+20192,Stimulus,presented,1
+21193,Stimulus,presented,0
+22195,Stimulus,presented,1
+23197,Stimulus,presented,0
+24199,Stimulus,presented,1
+25200,Stimulus,presented,0
+26202,Stimulus,presented,1
+27204,Stimulus,presented,0
+28206,Stimulus,presented,1
+29208,Stimulus,presented,0
+30210,Stimulus,presented,1
+31211,Stimulus,presented,0
+32212,Stimulus,presented,1
+33213,Stimulus,presented,0
+34214,Stimulus,presented,1
+35216,Stimulus,presented,0
+36217,Stimulus,presented,1
+37219,Stimulus,presented,0
+38221,Stimulus,presented,1
+39222,Stimulus,presented,0
+40223,Stimulus,presented,1
+41225,Stimulus,presented,0
+42227,Stimulus,presented,1
+43229,Stimulus,presented,0
+44231,Stimulus,presented,1
+45233,Stimulus,presented,0
+46234,Stimulus,presented,1
+47236,Stimulus,presented,0
+48238,Stimulus,presented,1
+49240,Stimulus,presented,0
+50242,Stimulus,presented,1
+51244,Stimulus,presented,0
+52245,Stimulus,presented,1
+53246,Stimulus,presented,0
+54247,Stimulus,presented,1
+55249,Stimulus,presented,0
+56250,Stimulus,presented,1
+57251,Stimulus,presented,0
+58253,Stimulus,presented,1
+59254,Experiment,ended
+59257,Stimulus,presented,3

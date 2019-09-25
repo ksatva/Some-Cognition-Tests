@@ -1,0 +1,13 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 16:52:17
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+4630,stderr,received,'Traceback (most recent call last):'
+4630,stderr,received,'  File "nbacktask.py", line 29, in <module>'
+4631,stderr,received,'    t.set_factor("Colour",color)'
+4631,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/design/_structure.py", line 1754, in set_factor'
+4633,stderr,received,'    raise TypeError(message)'
+4633,stderr,received,"TypeError: Factor values or factor conditions must to be a string or a numeric (i.e. float or integer).\n <class 'list'> is not allowed."

@@ -1,0 +1,33 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 19:42:39
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+280,stdout,received,'level1'
+281,stdout,received,"['red', (255, 0, 0)]"
+281,stdout,received,"<class 'list'>"
+281,stdout,received,"['green', (0, 255, 0)]"
+281,stdout,received,"<class 'list'>"
+281,stdout,received,"['blue', (0, 0, 255)]"
+281,stdout,received,"<class 'list'>"
+281,stdout,received,"['yellow', (255, 255, 0)]"
+281,stdout,received,"<class 'list'>"
+282,stdout,received,'level2'
+282,stdout,received,"['red', (255, 0, 0)]"
+282,stdout,received,"<class 'list'>"
+282,stdout,received,"['green', (0, 255, 0)]"
+282,stdout,received,"<class 'list'>"
+282,stdout,received,"['blue', (0, 0, 255)]"
+282,stdout,received,"<class 'list'>"
+282,stdout,received,"['yellow', (255, 255, 0)]"
+282,stdout,received,"<class 'list'>"
+9576,stderr,received,'Traceback (most recent call last):'
+9576,stderr,received,'  File "nbacktask.py", line 41, in <module>'
+9576,stderr,received,'    control.start()'
+9576,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 215, in start'
+9576,stderr,received,'    experiment.keyboard.wait()'
+9576,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/io/_keyboard.py", line 307, in wait'
+9577,stderr,received,'    time.sleep(0.0005)'
+9577,stderr,received,'KeyboardInterrupt'

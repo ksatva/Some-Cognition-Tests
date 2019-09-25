@@ -1,0 +1,98 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 14:48:52
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+20739,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,17
+#design: 0,0,1,18
+#design: 0,0,2,25
+#design: 0,0,3,21
+#design: 0,0,4,27
+#design: 0,0,5,22
+#design: 0,0,6,1
+#design: 0,0,7,10
+#design: 0,0,8,2
+#design: 0,0,9,8
+#design: 0,0,10,14
+#design: 0,0,11,13
+#design: 0,0,12,12
+#design: 0,0,13,15
+#design: 0,0,14,5
+#design: 0,0,15,20
+#design: 0,0,16,9
+#design: 0,0,17,6
+#design: 0,0,18,19
+#design: 0,0,19,4
+#design: 0,0,20,26
+#design: 0,0,21,24
+#design: 0,0,22,3
+#design: 0,0,23,0
+#design: 0,0,24,11
+#design: 0,0,25,7
+#design: 0,0,26,23
+#design: 0,0,27,16
+20739,design,logged,
+20739,Experiment,started
+20740,Stimulus,presented,0
+21743,Stimulus,presented,3
+22744,Stimulus,presented,0
+23746,Stimulus,presented,3
+24747,Stimulus,presented,0
+25749,Stimulus,presented,4
+26750,Stimulus,presented,0
+27752,Stimulus,presented,4
+28753,Stimulus,presented,0
+29755,Stimulus,presented,4
+30756,Stimulus,presented,0
+31758,Stimulus,presented,4
+32759,Stimulus,presented,0
+33761,Stimulus,presented,1
+34762,Stimulus,presented,0
+35764,Stimulus,presented,2
+36765,Stimulus,presented,0
+37767,Stimulus,presented,1
+38768,Stimulus,presented,0
+39770,Stimulus,presented,2
+40771,Stimulus,presented,0
+41773,Stimulus,presented,3
+42774,Stimulus,presented,0
+43776,Stimulus,presented,2
+44777,Stimulus,presented,0
+45779,Stimulus,presented,2
+46780,Stimulus,presented,0
+47782,Stimulus,presented,3
+48783,Stimulus,presented,0
+49785,Stimulus,presented,1
+50786,Stimulus,presented,0
+51788,Stimulus,presented,3
+52789,Stimulus,presented,0
+53791,Stimulus,presented,2
+54792,Stimulus,presented,0
+55794,Stimulus,presented,1
+56795,Stimulus,presented,0
+57797,Stimulus,presented,3
+58798,Stimulus,presented,0
+59800,Stimulus,presented,1
+60802,Stimulus,presented,0
+61804,Stimulus,presented,4
+62805,Stimulus,presented,0
+63807,Stimulus,presented,4
+64808,Stimulus,presented,0
+65810,Stimulus,presented,1
+66811,Stimulus,presented,0
+67813,Stimulus,presented,1
+68815,Stimulus,presented,0
+69817,Stimulus,presented,2
+70819,Stimulus,presented,0
+71821,Stimulus,presented,2
+72822,Stimulus,presented,0
+73823,Stimulus,presented,4
+74824,Stimulus,presented,0
+75826,Stimulus,presented,3
+76827,Experiment,ended
+76829,Stimulus,presented,6

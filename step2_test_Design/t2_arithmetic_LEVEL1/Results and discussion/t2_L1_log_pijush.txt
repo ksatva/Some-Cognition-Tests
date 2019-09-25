@@ -1,0 +1,116 @@
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Expyriment 0.9.0 (Python 3.6.5) 
+run_t2-L1.py
+*** NORMAL MODE ***
+0
+[5, 'x', 3, '+', 5]
+[5, 'x', 3, '+', 5]
+20
+[[5, 'x', 3, '+', 5], 20]
+Block 0: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+incorrect
+1
+[5, '+', 2, 'x', 2]
+[5, '+', 2, 'x', 2]
+14
+[[5, '+', 2, 'x', 2], 14]
+Block 1: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+incorrect
+2
+[1, '+', 2, '-', 3]
+[1, '+', 2, '-', 3]
+0
+[[1, '+', 2, '-', 3], 0]
+Block 2: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+3
+[3, 'x', 5, '-', 3]
+[3, 'x', 5, '-', 3]
+12
+[[3, 'x', 5, '-', 3], 12]
+Block 3: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+4
+[2, 'x', 1, '-', 4]
+[2, 'x', 1, '-', 4]
+-2
+[[2, 'x', 1, '-', 4], -2]
+Block 4: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+5
+[5, 'x', 4, 'x', 3]
+[5, 'x', 4, 'x', 3]
+60
+[[5, 'x', 4, 'x', 3], 60]
+Block 5: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+6
+[2, '+', 2, 'x', 5]
+[2, '+', 2, 'x', 5]
+20
+[[2, '+', 2, 'x', 5], 20]
+Block 6: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+7
+[1, 'x', 4, '+', 5]
+[1, 'x', 4, '+', 5]
+9
+[[1, 'x', 4, '+', 5], 9]
+Block 7: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+8
+[3, '-', 4, 'x', 5]
+[3, '-', 4, 'x', 5]
+-5
+[[3, '-', 4, 'x', 5], -5]
+Block 8: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+9
+[4, '-', 1, '+', 2]
+[4, '-', 1, '+', 2]
+5
+[[4, '-', 1, '+', 2], 5]
+Block 9: unnamed
+    block factors: 
+    n trials: 5
+    trial IDs = [0, 1, 2, 3, 4]
+    trial factors: 
+Correct
+[[-5, -5, 5, 5, 5, 5, 5, 5, 5, 5], [12.818553447723389, 9.238649845123291, 2.252305746078491, 2.106548547744751, 5.688342332839966, 2.0608229637145996, 1.735083818435669, 1.6934800148010254, 2.6704511642456055, 1.9636666774749756], [0, 'pijush', 0, 0, 0, 0, 0, 0, 0, 0]]

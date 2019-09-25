@@ -1,0 +1,25 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Jul 31 2018 10:19:56
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+4334,stdout,received,'<expyriment.design._structure.Experiment object at 0x7f99fdfc6c88>'
+34065,stderr,received,'Traceback (most recent call last):'
+34065,stderr,received,'  File "<stdin>", line 1, in <module>'
+34065,stderr,received,"AttributeError: module 'expyriment.stimuli' has no attribute 'Textline'"
+85009,stdout,received,'1'
+111105,design,log,
+#design: #exp: Exper
+#design: block_cnt,block_id,trial_cnt,trial_id
+111105,design,logged,
+111105,Experiment,started
+111105,stdout,received,'<expyriment.design._structure.Experiment object at 0x7f99fdfc6c88>'
+126259,Experiment,ended
+126262,Stimulus,presented,2
+129398,stdout,received,'True'
+1999741,stderr,received,'  File "<stdin>", line 2'
+1999741,stderr,received,'    exit()'
+1999741,stderr,received,'       ^'
+1999741,stderr,received,'SyntaxError: invalid syntax'

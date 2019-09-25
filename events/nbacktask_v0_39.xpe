@@ -1,0 +1,47 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Sun Aug 19 2018 22:00:05
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+408,stdout,received,'LEVEL 1'
+408,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+408,stdout,received,'        Trial:   None\n\n        Stimuli: [5]\n        '
+6620,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,0,red
+#design: 0,0,LEVEL 1,1,1,green
+#design: 0,0,LEVEL 1,2,2,red
+#design: 0,0,LEVEL 1,3,3,blue
+#design: 0,0,LEVEL 1,4,4,yellow
+6620,design,logged,
+6620,Experiment,started
+6621,Stimulus,presented,0
+8622,Stimulus,presented,1
+10624,Keyboard,received,None,wait
+10624,stdout,received,'None'
+10624,Stimulus,presented,0
+12625,Stimulus,presented,2
+14627,Keyboard,received,None,wait
+14627,stdout,received,'None'
+14627,Stimulus,presented,0
+16628,Stimulus,presented,3
+16920,Keyboard,received,32,wait
+16920,stdout,received,'32'
+16920,stdout,received,'flag set'
+16920,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106b70>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00154fd0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106c88>]'
+16920,stdout,received,'MISS'
+16921,Stimulus,presented,0
+18921,Stimulus,presented,4
+20923,Keyboard,received,None,wait
+20923,stdout,received,'None'
+20923,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7fef00154fd0>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106c88>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106e10>]'
+20923,Stimulus,presented,0
+22924,Stimulus,presented,5
+24925,Keyboard,received,None,wait
+24925,stdout,received,'None'
+24926,stdout,received,'[<expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106c88>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106e10>, <expyriment.stimuli._rectangle.Rectangle object at 0x7fef00106f28>]'
+24926,stdout,received,'nbacks in stimuli 0'
+24926,Experiment,ended

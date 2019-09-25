@@ -1,0 +1,211 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 20 2018 01:35:53
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+120417,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,0,blue
+#design: 0,0,LEVEL 1,1,1,blue
+#design: 0,0,LEVEL 1,2,2,green
+#design: 0,0,LEVEL 1,3,3,green
+#design: 0,0,LEVEL 1,4,4,blue
+#design: 0,0,LEVEL 1,5,5,blue
+#design: 0,0,LEVEL 1,6,6,red
+#design: 0,0,LEVEL 1,7,7,red
+#design: 0,0,LEVEL 1,8,8,yellow
+#design: 0,0,LEVEL 1,9,9,yellow
+#design: 0,0,LEVEL 1,10,10,red
+#design: 0,0,LEVEL 1,11,11,red
+#design: 0,0,LEVEL 1,12,12,yellow
+#design: 0,0,LEVEL 1,13,13,yellow
+#design: 0,0,LEVEL 1,14,14,yellow
+#design: 0,0,LEVEL 1,15,15,yellow
+#design: 0,0,LEVEL 1,16,16,green
+#design: 0,0,LEVEL 1,17,17,green
+#design: 0,0,LEVEL 1,18,18,blue
+#design: 0,0,LEVEL 1,19,19,blue
+#design: 0,0,LEVEL 1,20,20,green
+#design: 0,0,LEVEL 1,21,21,green
+#design: 0,0,LEVEL 1,22,22,blue
+#design: 0,0,LEVEL 1,23,23,blue
+#design: 0,0,LEVEL 1,24,24,red
+#design: 0,0,LEVEL 1,25,25,red
+#design: 0,0,LEVEL 1,26,26,yellow
+#design: 0,0,LEVEL 1,27,27,yellow
+#design: 0,0,LEVEL 1,28,28,red
+#design: 0,0,LEVEL 1,29,29,red
+#design: 0,0,LEVEL 1,30,30,yellow
+#design: 0,0,LEVEL 1,31,31,yellow
+#design: 0,0,LEVEL 1,32,32,blue
+#design: 0,0,LEVEL 1,33,33,blue
+#design: 0,0,LEVEL 1,34,34,blue
+#design: 0,0,LEVEL 1,35,35,blue
+#design: 0,0,LEVEL 1,36,36,red
+#design: 0,0,LEVEL 1,37,37,red
+#design: 0,0,LEVEL 1,38,38,blue
+#design: 0,0,LEVEL 1,39,39,blue
+#design: 0,0,LEVEL 1,40,40,blue
+#design: 0,0,LEVEL 1,41,41,blue
+#design: 0,0,LEVEL 1,42,42,yellow
+#design: 0,0,LEVEL 1,43,43,yellow
+#design: 0,0,LEVEL 1,44,44,red
+#design: 0,0,LEVEL 1,45,45,red
+#design: 0,0,LEVEL 1,46,46,blue
+#design: 0,0,LEVEL 1,47,47,blue
+#design: 0,0,LEVEL 1,48,48,red
+#design: 0,0,LEVEL 1,49,49,red
+#design: 0,0,LEVEL 1,50,50,yellow
+#design: 0,0,LEVEL 1,51,51,yellow
+#design: 0,0,LEVEL 1,52,52,red
+#design: 0,0,LEVEL 1,53,53,red
+#design: 0,0,LEVEL 1,54,54,blue
+#design: 0,0,LEVEL 1,55,55,blue
+#design: 0,0,LEVEL 1,56,56,red
+#design: 0,0,LEVEL 1,57,57,red
+#design: 0,0,LEVEL 1,58,58,blue
+#design: 0,0,LEVEL 1,59,59,blue
+#design: 0,0,LEVEL 1,60,60,red
+#design: 0,0,LEVEL 1,61,61,red
+#design: 0,0,LEVEL 1,62,62,blue
+#design: 0,0,LEVEL 1,63,63,blue
+#design: 0,0,LEVEL 1,64,64,red
+#design: 0,0,LEVEL 1,65,65,red
+120418,design,logged,
+120418,Experiment,started
+120419,Stimulus,presented,0
+120421,Stimulus,presented,1
+120428,Stimulus,presented,0
+120446,Stimulus,presented,1
+120461,Stimulus,presented,0
+120479,Stimulus,presented,2
+120495,Stimulus,presented,0
+120512,Stimulus,presented,2
+120528,Stimulus,presented,0
+120546,Stimulus,presented,3
+120561,Stimulus,presented,0
+120579,Stimulus,presented,3
+120595,Stimulus,presented,0
+120612,Stimulus,presented,4
+120628,Stimulus,presented,0
+120646,Stimulus,presented,4
+120661,Stimulus,presented,0
+120679,Stimulus,presented,5
+120695,Stimulus,presented,0
+120712,Stimulus,presented,5
+120728,Stimulus,presented,0
+120746,Stimulus,presented,6
+120761,Stimulus,presented,0
+120779,Stimulus,presented,6
+120795,Stimulus,presented,0
+120812,Stimulus,presented,7
+120828,Stimulus,presented,0
+120846,Stimulus,presented,7
+120861,Stimulus,presented,0
+120879,Stimulus,presented,8
+120895,Stimulus,presented,0
+120912,Stimulus,presented,8
+120928,Stimulus,presented,0
+120946,Stimulus,presented,9
+120961,Stimulus,presented,0
+120979,Stimulus,presented,9
+120995,Stimulus,presented,0
+121012,Stimulus,presented,10
+121028,Stimulus,presented,0
+121046,Stimulus,presented,10
+121061,Stimulus,presented,0
+121079,Stimulus,presented,11
+121095,Stimulus,presented,0
+121112,Stimulus,presented,11
+121128,Stimulus,presented,0
+121146,Stimulus,presented,12
+121161,Stimulus,presented,0
+121179,Stimulus,presented,12
+121195,Stimulus,presented,0
+121212,Stimulus,presented,13
+121228,Stimulus,presented,0
+121246,Stimulus,presented,13
+121261,Stimulus,presented,0
+121279,Stimulus,presented,14
+121295,Stimulus,presented,0
+121312,Stimulus,presented,14
+121328,Stimulus,presented,0
+121346,Stimulus,presented,15
+121361,Stimulus,presented,0
+121379,Stimulus,presented,15
+121395,Stimulus,presented,0
+121412,Stimulus,presented,16
+121428,Stimulus,presented,0
+121446,Stimulus,presented,16
+121461,Stimulus,presented,0
+121479,Stimulus,presented,17
+121495,Stimulus,presented,0
+121512,Stimulus,presented,17
+121528,Stimulus,presented,0
+121546,Stimulus,presented,18
+121561,Stimulus,presented,0
+121579,Stimulus,presented,18
+121595,Stimulus,presented,0
+121612,Stimulus,presented,19
+121628,Stimulus,presented,0
+121646,Stimulus,presented,19
+121661,Stimulus,presented,0
+121679,Stimulus,presented,20
+121695,Stimulus,presented,0
+121712,Stimulus,presented,20
+121728,Stimulus,presented,0
+121746,Stimulus,presented,21
+121761,Stimulus,presented,0
+121779,Stimulus,presented,21
+121795,Stimulus,presented,0
+121812,Stimulus,presented,22
+121828,Stimulus,presented,0
+121846,Stimulus,presented,22
+121862,Stimulus,presented,0
+121879,Stimulus,presented,23
+121895,Stimulus,presented,0
+121912,Stimulus,presented,23
+121928,Stimulus,presented,0
+121946,Stimulus,presented,24
+121961,Stimulus,presented,0
+121979,Stimulus,presented,24
+121995,Stimulus,presented,0
+122012,Stimulus,presented,25
+122028,Stimulus,presented,0
+122046,Stimulus,presented,25
+122061,Stimulus,presented,0
+122079,Stimulus,presented,26
+122095,Stimulus,presented,0
+122112,Stimulus,presented,26
+122128,Stimulus,presented,0
+122146,Stimulus,presented,27
+122161,Stimulus,presented,0
+122179,Stimulus,presented,27
+122195,Stimulus,presented,0
+122212,Stimulus,presented,28
+122228,Stimulus,presented,0
+122245,Stimulus,presented,28
+122261,Stimulus,presented,0
+122279,Stimulus,presented,29
+122295,Stimulus,presented,0
+122313,Stimulus,presented,29
+122328,Stimulus,presented,0
+122345,Stimulus,presented,30
+122361,Stimulus,presented,0
+122379,Stimulus,presented,30
+122395,Stimulus,presented,0
+122412,Stimulus,presented,31
+122428,Stimulus,presented,0
+122445,Stimulus,presented,31
+122461,Stimulus,presented,0
+122479,Stimulus,presented,32
+122495,Stimulus,presented,0
+122512,Stimulus,presented,32
+122528,Stimulus,presented,0
+122546,Stimulus,presented,33
+122561,Stimulus,presented,0
+122579,Stimulus,presented,33
+122580,Experiment,ended

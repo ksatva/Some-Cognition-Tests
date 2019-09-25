@@ -1,0 +1,35 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 20 2018 16:36:04
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+48631,design,log,
+#design: #exp: Arithmetic test
+#design: block_cnt,block_id,trial_cnt,trial_id
+48631,design,logged,
+48631,Experiment,started
+48639,Stimulus,presented,0
+50642,Stimulus,presented,1
+52644,Stimulus,presented,2
+54647,Stimulus,presented,3
+56650,Stimulus,presented,4
+58652,Stimulus,presented,5
+60667,Stimulus,presented,6
+60675,Stimulus,presented,6
+60685,Stimulus,presented,6
+60696,Stimulus,presented,7
+61982,Stimulus,presented,7
+62307,TextInput,entered,b'3'
+62315,Stimulus,presented,0
+64316,Stimulus,presented,0
+66318,Stimulus,presented,7
+68320,Stimulus,presented,8
+70322,Stimulus,presented,9
+72325,Stimulus,presented,10
+74328,Stimulus,presented,11
+76344,Stimulus,presented,12
+76353,Stimulus,presented,12
+76367,Stimulus,presented,12
+76378,Stimulus,presented,13

@@ -1,0 +1,37 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 14:56:24
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+267,stdout,received,'LEVEL 1'
+4273,stdout,received,'        Trial:   None\n\n        Stimuli: [9]\n        '
+6097,design,log,
+#design: #exp: Arithmatic test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id
+#design: 0,0,LEVEL 1,0,0
+#design: 0,0,LEVEL 1,1,1
+#design: 0,0,LEVEL 1,2,2
+#design: 0,0,LEVEL 1,3,3
+#design: 0,0,LEVEL 1,4,4
+6097,design,logged,
+6097,Experiment,started
+7097,Stimulus,presented,1
+7098,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f56f2488b70>, <expyriment.stimuli._textline.TextLine object at 0x7f570a98add8>]'
+8098,Stimulus,presented,3
+8099,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f56f2488c88>, <expyriment.stimuli._textline.TextLine object at 0x7f56f2488d30>]'
+9100,Stimulus,presented,5
+9101,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f56f2488f60>, <expyriment.stimuli._textline.TextLine object at 0x7f56f2488c50>]'
+10101,Stimulus,presented,7
+10102,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f56f2488d68>, <expyriment.stimuli._textline.TextLine object at 0x7f56f249b048>]'
+11102,Stimulus,presented,9
+11103,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f56f249b160>]'
+11103,stdout,received,'LEVEL 2'
+15108,stdout,received,'        Trial:   None\n\n        Stimuli: [18]\n        '
+15109,stderr,received,'Traceback (most recent call last):'
+15109,stderr,received,'  File "arithmatictask_v0.py", line 49, in <module>'
+15109,stderr,received,'    control.start()'
+15109,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 73, in start'
+15109,stderr,received,'    raise Exception("Experiment is already started!")'
+15110,stderr,received,'Exception: Experiment is already started!'

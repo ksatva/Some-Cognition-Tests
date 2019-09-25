@@ -1,0 +1,19 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 20:00:08
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+272,stdout,received,'level1'
+272,stdout,received,"<class 'expyriment.design._structure.Block'>"
+273,stdout,received,'level2'
+273,stdout,received,"<class 'expyriment.design._structure.Block'>"
+6960,stderr,received,'Traceback (most recent call last):'
+6960,stderr,received,'  File "nbacktask.py", line 45, in <module>'
+6960,stderr,received,'    control.start()'
+6960,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 215, in start'
+6961,stderr,received,'    experiment.keyboard.wait()'
+6961,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/io/_keyboard.py", line 307, in wait'
+6961,stderr,received,'    time.sleep(0.0005)'
+6961,stderr,received,'KeyboardInterrupt'

@@ -1,0 +1,15 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpd-file, coding: ISO8859-1
+#date: Tue Jul 31 2018 11:13:54
+#--EXPERIMENT INFO
+#e mainfile: first_experiment.py
+#e sha1: None
+#e modules: 
+#e Experiment: First Experiment
+#e no between subject factors
+#e Block 0: A name for the block
+#e     block factors: 
+#e     n trials: 1
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 5
+subject_id,

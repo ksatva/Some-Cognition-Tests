@@ -1,0 +1,32 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 14:56:58
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+270,stdout,received,'LEVEL 1'
+4277,stdout,received,'        Trial:   None\n\n        Stimuli: [9]\n        '
+7426,design,log,
+#design: #exp: Arithmatic test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id
+#design: 0,0,LEVEL 1,0,0
+#design: 0,0,LEVEL 1,1,1
+#design: 0,0,LEVEL 1,2,2
+#design: 0,0,LEVEL 1,3,3
+#design: 0,0,LEVEL 1,4,4
+7426,design,logged,
+7426,Experiment,started
+8427,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5b00>, <expyriment.stimuli._textline.TextLine object at 0x7f5dd7838d68>]'
+9427,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5c18>, <expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5cc0>]'
+10427,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5ef0>, <expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5be0>]'
+11427,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5fd0>, <expyriment.stimuli._textline.TextLine object at 0x7f5dc42d5f28>]'
+12427,stdout,received,'[<expyriment.stimuli._textline.TextLine object at 0x7f5dc42e90f0>]'
+12427,stdout,received,'LEVEL 2'
+16433,stdout,received,'        Trial:   None\n\n        Stimuli: [18]\n        '
+16434,stderr,received,'Traceback (most recent call last):'
+16434,stderr,received,'  File "arithmatictask_v0.py", line 49, in <module>'
+16434,stderr,received,'    control.start()'
+16434,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 73, in start'
+16434,stderr,received,'    raise Exception("Experiment is already started!")'
+16434,stderr,received,'Exception: Experiment is already started!'

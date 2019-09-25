@@ -1,0 +1,22 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Jul 31 2018 15:16:12
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+14225,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 1,1,0,0
+#design: 1,1,1,1
+14225,design,logged,
+14225,Experiment,started
+14226,Stimulus,presented,0
+16193,Keyboard,received,276,wait
+16193,stderr,received,'Traceback (most recent call last):'
+16193,stderr,received,'  File "twoblocks_withResponse.py", line 61, in <module>'
+16193,stderr,received,'    exp.data.add([block.name.trial.id,key,rt])'
+16194,stderr,received,"AttributeError: 'str' object has no attribute 'trial'"

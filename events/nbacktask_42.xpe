@@ -1,0 +1,36 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 20:47:28
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+285,stdout,received,'LEVEL 1'
+286,stdout,received,'Block None: unnamed\n    block factors: LEVEL = LEVEL 1\n    n trials: 8\n    trial IDs = [3, 5, 7, 6, 4, 1, 0, 2]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+286,stdout,received,'LEVEL 2'
+287,stdout,received,'Block None: unnamed\n    block factors: LEVEL = LEVEL 2\n    n trials: 8\n    trial IDs = [1, 3, 4, 6, 2, 0, 5, 7]\n    trial factors: COLOR = [blue, green, red, yellow]\n                   '
+1432,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,LEVEL 1,0,3,green
+#design: 0,0,LEVEL 1,1,5,blue
+#design: 0,0,LEVEL 1,2,7,yellow
+#design: 0,0,LEVEL 1,3,6,yellow
+#design: 0,0,LEVEL 1,4,4,blue
+#design: 0,0,LEVEL 1,5,1,red
+#design: 0,0,LEVEL 1,6,0,red
+#design: 0,0,LEVEL 1,7,2,green
+#design: 1,1,LEVEL 2,0,1,red
+#design: 1,1,LEVEL 2,1,3,green
+#design: 1,1,LEVEL 2,2,4,blue
+#design: 1,1,LEVEL 2,3,6,yellow
+#design: 1,1,LEVEL 2,4,2,green
+#design: 1,1,LEVEL 2,5,0,red
+#design: 1,1,LEVEL 2,6,5,blue
+#design: 1,1,LEVEL 2,7,7,yellow
+1432,design,logged,
+1432,Experiment,started
+1435,stderr,received,'Traceback (most recent call last):'
+1435,stderr,received,'  File "nbacktask.py", line 57, in <module>'
+1435,stderr,received,'    exp.keyboard.wait(constants.K_ENTER)'
+1435,stderr,received,"NameError: name 'constants' is not defined"

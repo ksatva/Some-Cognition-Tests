@@ -1,0 +1,23 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 15:00:48
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+260,stdout,received,'LEVEL 1'
+260,stdout,received,'        Trial:   None\n\n        Stimuli: []\n        '
+1625,design,log,
+#design: #exp: Arithmatic test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id
+#design: 0,0,LEVEL 1,0,0
+#design: 0,0,LEVEL 1,1,1
+#design: 0,0,LEVEL 1,2,2
+#design: 0,0,LEVEL 1,3,3
+#design: 0,0,LEVEL 1,4,4
+1625,design,logged,
+1625,Experiment,started
+1626,stderr,received,'Traceback (most recent call last):'
+1626,stderr,received,'  File "arithmatictask_v0.py", line 54, in <module>'
+1626,stderr,received,'    exp.clock.wait(1000-t.stimuli[0].preload())'
+1626,stderr,received,'IndexError: list index out of range'

@@ -1,0 +1,31 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 10:09:33
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+314,stdout,received,'LEVEL 1'
+4321,stdout,received,'        Trial:   None\n\n        Stimuli: []\n        '
+5611,design,log,
+#design: #exp: Arithmatic test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id
+#design: 0,0,LEVEL 1,0,0
+#design: 0,0,LEVEL 1,1,1
+#design: 0,0,LEVEL 1,2,2
+#design: 0,0,LEVEL 1,3,3
+#design: 0,0,LEVEL 1,4,4
+5612,design,logged,
+5612,Experiment,started
+6612,Stimulus,presented,2
+7613,Stimulus,presented,2
+8614,Stimulus,presented,4
+9615,Stimulus,presented,4
+10616,Stimulus,presented,6
+11616,Stimulus,presented,6
+12617,Stimulus,presented,8
+13618,Stimulus,presented,8
+13619,stderr,received,'Traceback (most recent call last):'
+13619,stderr,received,'  File "arithmatictask_v0.py", line 54, in <module>'
+13619,stderr,received,'    exp.clock.wait(1000-t.stimuli[0].preload())'
+13619,stderr,received,'IndexError: list index out of range'

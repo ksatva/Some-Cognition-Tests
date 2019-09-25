@@ -1,0 +1,265 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Sep 04 2018 00:34:26
+#sha1: None
+#modules: 
+#display: size=(1366, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+25940,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+25941,design,logged,
+25941,Experiment,started
+25977,Stimulus,presented,2
+25996,Stimulus,presented,2
+26018,Stimulus,presented,2
+26024,Stimulus,presented,3
+123724,Stimulus,presented,3
+123929,Stimulus,presented,3
+127238,Stimulus,presented,3
+127556,Stimulus,presented,3
+128058,Stimulus,presented,3
+129382,TextInput,entered,b'sagar'
+129426,Stimulus,presented,3
+139429,Stimulus,presented,1
+149430,stdout,received,'0'
+149430,stdout,received,"[1, 'x', 2, '+', 4]"
+149430,stdout,received,"[1, 'x', 2, '+', 4]"
+149430,stdout,received,'6'
+149430,stdout,received,"[[1, 'x', 2, '+', 4], 6]"
+149435,Stimulus,presented,1
+149739,Stimulus,presented,4
+150442,Stimulus,presented,5
+151144,Stimulus,presented,6
+151847,Stimulus,presented,7
+152550,Stimulus,presented,8
+153251,stdout,received,'Block 0: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+153273,Stimulus,presented,9
+153287,Stimulus,presented,9
+153301,Stimulus,presented,9
+153305,Stimulus,presented,10
+157322,Stimulus,presented,10
+158272,TextInput,entered,b'8'
+158272,stdout,received,'incorrect'
+158272,stdout,received,'1'
+158272,stdout,received,"[5, '+', 3, '-', 1]"
+158272,stdout,received,"[5, '+', 3, '-', 1]"
+158272,stdout,received,'7'
+158272,stdout,received,"[[5, '+', 3, '-', 1], 7]"
+158277,Stimulus,presented,1
+158578,Stimulus,presented,1
+158879,Stimulus,presented,10
+159582,Stimulus,presented,11
+160285,Stimulus,presented,12
+160988,Stimulus,presented,13
+161691,Stimulus,presented,14
+162392,stdout,received,'Block 1: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+162418,Stimulus,presented,15
+162432,Stimulus,presented,15
+162447,Stimulus,presented,15
+162450,Stimulus,presented,16
+163747,Stimulus,presented,16
+164479,TextInput,entered,b'7'
+164479,stdout,received,'Correct'
+164479,stdout,received,'2'
+164479,stdout,received,"[5, '+', 1, '+', 1]"
+164480,stdout,received,"[5, '+', 1, '+', 1]"
+164480,stdout,received,'7'
+164480,stdout,received,"[[5, '+', 1, '+', 1], 7]"
+164486,Stimulus,presented,1
+164787,Stimulus,presented,1
+165087,Stimulus,presented,1
+165388,Stimulus,presented,16
+166091,Stimulus,presented,17
+166794,Stimulus,presented,18
+167496,Stimulus,presented,19
+168198,Stimulus,presented,20
+168899,stdout,received,'Block 2: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+168923,Stimulus,presented,21
+168937,Stimulus,presented,21
+168950,Stimulus,presented,21
+168955,Stimulus,presented,22
+170356,Stimulus,presented,22
+170911,TextInput,entered,b'7'
+170911,stdout,received,'Correct'
+170911,stdout,received,'3'
+170911,stdout,received,"[1, 'x', 3, 'x', 3]"
+170911,stdout,received,"[1, 'x', 3, 'x', 3]"
+170911,stdout,received,'9'
+170911,stdout,received,"[[1, 'x', 3, 'x', 3], 9]"
+170916,Stimulus,presented,1
+171217,Stimulus,presented,1
+171517,Stimulus,presented,1
+171817,Stimulus,presented,1
+172119,Stimulus,presented,22
+172821,Stimulus,presented,23
+173523,Stimulus,presented,24
+174225,Stimulus,presented,25
+174927,Stimulus,presented,26
+175628,stdout,received,'Block 3: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+175658,Stimulus,presented,27
+175679,Stimulus,presented,27
+175701,Stimulus,presented,27
+175706,Stimulus,presented,28
+176446,Stimulus,presented,28
+176958,TextInput,entered,b'9'
+176958,stdout,received,'Correct'
+176959,stdout,received,'4'
+176959,stdout,received,"[4, '-', 1, '+', 2]"
+176959,stdout,received,"[4, '-', 1, '+', 2]"
+176959,stdout,received,'5'
+176959,stdout,received,"[[4, '-', 1, '+', 2], 5]"
+176965,Stimulus,presented,1
+177266,Stimulus,presented,1
+177566,Stimulus,presented,1
+177867,Stimulus,presented,1
+178168,Stimulus,presented,1
+178470,Stimulus,presented,28
+179172,Stimulus,presented,29
+179874,Stimulus,presented,30
+180577,Stimulus,presented,31
+181279,Stimulus,presented,32
+181980,stdout,received,'Block 4: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+182005,Stimulus,presented,33
+182018,Stimulus,presented,33
+182032,Stimulus,presented,33
+182035,Stimulus,presented,34
+184540,Stimulus,presented,34
+185179,TextInput,entered,b'5'
+185179,stdout,received,'Correct'
+185179,stdout,received,'5'
+185179,stdout,received,"[3, '-', 2, '-', 1]"
+185180,stdout,received,"[3, '-', 2, '-', 1]"
+185180,stdout,received,'0'
+185180,stdout,received,"[[3, '-', 2, '-', 1], 0]"
+185184,Stimulus,presented,1
+185485,Stimulus,presented,1
+185785,Stimulus,presented,1
+186086,Stimulus,presented,1
+186386,Stimulus,presented,1
+186687,Stimulus,presented,1
+186990,Stimulus,presented,34
+187693,Stimulus,presented,35
+188396,Stimulus,presented,36
+189098,Stimulus,presented,37
+189800,Stimulus,presented,38
+190502,stdout,received,'Block 5: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+190526,Stimulus,presented,39
+190538,Stimulus,presented,39
+190553,Stimulus,presented,39
+190557,Stimulus,presented,40
+191518,Stimulus,presented,40
+192052,TextInput,entered,b'0'
+192052,stdout,received,'Correct'
+192052,stdout,received,'6'
+192052,stdout,received,"[5, '-', 5, '+', 4]"
+192052,stdout,received,"[5, '-', 5, '+', 4]"
+192052,stdout,received,'4'
+192053,stdout,received,"[[5, '-', 5, '+', 4], 4]"
+192059,Stimulus,presented,1
+192360,Stimulus,presented,1
+192661,Stimulus,presented,1
+192962,Stimulus,presented,1
+193262,Stimulus,presented,1
+193563,Stimulus,presented,1
+193864,Stimulus,presented,1
+194166,Stimulus,presented,40
+194869,Stimulus,presented,41
+195570,Stimulus,presented,42
+196273,Stimulus,presented,43
+196974,Stimulus,presented,44
+197676,stdout,received,'Block 6: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+197700,Stimulus,presented,45
+197713,Stimulus,presented,45
+197728,Stimulus,presented,45
+197731,Stimulus,presented,46
+198847,Stimulus,presented,46
+199492,TextInput,entered,b'4'
+199492,stdout,received,'Correct'
+199493,stdout,received,'7'
+199493,stdout,received,"[4, 'x', 5, 'x', 5]"
+199493,stdout,received,"[4, 'x', 5, 'x', 5]"
+199493,stdout,received,'100'
+199493,stdout,received,"[[4, 'x', 5, 'x', 5], 100]"
+199500,Stimulus,presented,1
+199800,Stimulus,presented,1
+200101,Stimulus,presented,1
+200401,Stimulus,presented,1
+200702,Stimulus,presented,1
+201003,Stimulus,presented,1
+201304,Stimulus,presented,1
+201605,Stimulus,presented,1
+201908,Stimulus,presented,46
+202611,Stimulus,presented,47
+203312,Stimulus,presented,48
+204015,Stimulus,presented,49
+204716,Stimulus,presented,50
+205417,stdout,received,'Block 7: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+205451,Stimulus,presented,51
+205467,Stimulus,presented,51
+205486,Stimulus,presented,51
+205490,Stimulus,presented,52
+206979,Stimulus,presented,52
+207730,Stimulus,presented,52
+207911,Stimulus,presented,52
+208462,TextInput,entered,b'100'
+208462,stdout,received,'Correct'
+208462,stdout,received,'8'
+208462,stdout,received,"[1, 'x', 3, 'x', 1]"
+208462,stdout,received,"[1, 'x', 3, 'x', 1]"
+208462,stdout,received,'3'
+208462,stdout,received,"[[1, 'x', 3, 'x', 1], 3]"
+208468,Stimulus,presented,1
+208768,Stimulus,presented,1
+209069,Stimulus,presented,1
+209370,Stimulus,presented,1
+209670,Stimulus,presented,1
+209971,Stimulus,presented,1
+210271,Stimulus,presented,1
+210571,Stimulus,presented,1
+210872,Stimulus,presented,1
+211174,Stimulus,presented,52
+211877,Stimulus,presented,53
+212579,Stimulus,presented,54
+213282,Stimulus,presented,55
+213984,Stimulus,presented,56
+214684,stdout,received,'Block 8: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+214714,Stimulus,presented,57
+214733,Stimulus,presented,57
+214749,Stimulus,presented,57
+214753,Stimulus,presented,58
+215987,Stimulus,presented,58
+216626,TextInput,entered,b'3'
+216626,stdout,received,'Correct'
+216626,stdout,received,'9'
+216627,stdout,received,"[4, '+', 1, '-', 4]"
+216627,stdout,received,"[4, '+', 1, '-', 4]"
+216627,stdout,received,'1'
+216627,stdout,received,"[[4, '+', 1, '-', 4], 1]"
+216634,Stimulus,presented,1
+216934,Stimulus,presented,1
+217235,Stimulus,presented,1
+217536,Stimulus,presented,1
+217837,Stimulus,presented,1
+218139,Stimulus,presented,1
+218441,Stimulus,presented,1
+218741,Stimulus,presented,1
+219042,Stimulus,presented,1
+219343,Stimulus,presented,1
+219645,Stimulus,presented,58
+220348,Stimulus,presented,59
+221050,Stimulus,presented,60
+221751,Stimulus,presented,61
+222453,Stimulus,presented,62
+223154,stdout,received,'Block 9: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+223178,Stimulus,presented,63
+223192,Stimulus,presented,63
+223209,Stimulus,presented,63
+223212,Stimulus,presented,64
+226542,Stimulus,presented,64
+227259,TextInput,entered,b'1'
+227259,stdout,received,'Correct'
+227259,Stimulus,presented,1
+232260,Experiment,ended
+232263,Stimulus,presented,64
+235395,stdout,received,"[[-5, 5, 5, 5, 5, 5, 5, 5, 5, 5], [5.021296501159668, 2.087480306625366, 2.0125925540924072, 1.3306849002838135, 3.1996424198150635, 1.5505170822143555, 1.8167598247528076, 3.0452191829681396, 1.9426021575927734, 4.104956150054932], [0, 'sagar', 0, 0, 0, 0, 0, 0, 0, 0]]"

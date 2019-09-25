@@ -1,0 +1,11 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 19:33:06
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1687,stderr,received,'Traceback (most recent call last):'
+1687,stderr,received,'  File "nbacktask_copy.py", line 80, in <module>'
+1687,stderr,received,'    for  cnt,trial in enumerate(blocks.trials):'
+1687,stderr,received,"NameError: name 'blocks' is not defined"

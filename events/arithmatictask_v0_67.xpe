@@ -1,0 +1,15 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 21 2018 14:41:44
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+9157,stderr,received,'Traceback (most recent call last):'
+9157,stderr,received,'  File "arithmatictask_v0.py", line 30, in <module>'
+9157,stderr,received,'    control.start()'
+9158,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 215, in start'
+9195,stderr,received,'    experiment.keyboard.wait()'
+9195,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/io/_keyboard.py", line 307, in wait'
+9207,stderr,received,'    time.sleep(0.0005)'
+9207,stderr,received,'KeyboardInterrupt'

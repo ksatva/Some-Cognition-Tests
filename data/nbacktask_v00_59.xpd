@@ -1,0 +1,16 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpd-file, coding: ISO8859-1
+#date: Tue Aug 21 2018 10:43:21
+#--EXPERIMENT INFO
+#e mainfile: nbacktask_v00.py
+#e sha1: None
+#e modules: 
+#e Experiment: n-back test
+#e no between subject factors
+#e Block 0: LEVEL 1
+#e     block factors: LEVEL = LEVEL 1
+#e     n trials: 24
+#e     trial factors: COLOR = [blue, green, red, yellow]
+#e                    
+#--SUBJECT INFO
+#s id: 59
+subject_id,

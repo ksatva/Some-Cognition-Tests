@@ -1,0 +1,37 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 19:52:30
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+268,stdout,received,'level1'
+269,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+269,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+269,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+269,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+269,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+269,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+269,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+270,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+270,stdout,received,'        Trial:   None\n\n        Stimuli: [4]\n        '
+270,stdout,received,'<expyriment.stimuli._rectangle.Rectangle object at 0x7fde7c1b1f98>'
+270,stdout,received,'level2'
+270,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+270,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+270,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+270,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+271,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+271,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+271,stdout,received,"<class 'expyriment.design._structure.Trial'>"
+271,stdout,received,"<class 'expyriment.stimuli._rectangle.Rectangle'>"
+271,stdout,received,'        Trial:   None\n\n        Stimuli: [8]\n        '
+271,stdout,received,'<expyriment.stimuli._rectangle.Rectangle object at 0x7fde7c1c4668>'
+88090,stderr,received,'Traceback (most recent call last):'
+88090,stderr,received,'  File "nbacktask.py", line 45, in <module>'
+88091,stderr,received,'    control.start()'
+88091,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 215, in start'
+88091,stderr,received,'    experiment.keyboard.wait()'
+88091,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/io/_keyboard.py", line 307, in wait'
+88091,stderr,received,'    time.sleep(0.0005)'
+88091,stderr,received,'KeyboardInterrupt'

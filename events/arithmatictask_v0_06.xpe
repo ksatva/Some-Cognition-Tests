@@ -1,0 +1,37 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Tue Aug 14 2018 09:49:16
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+277,stdout,received,'LEVEL 1'
+4282,stdout,received,'Block None: LEVEL 1\n    block factors: LEVEL = LEVEL 1\n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+6574,design,log,
+#design: #exp: Arithmatic test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id
+#design: 0,0,LEVEL 1,0,0
+#design: 0,0,LEVEL 1,1,1
+#design: 0,0,LEVEL 1,2,2
+#design: 0,0,LEVEL 1,3,3
+#design: 0,0,LEVEL 1,4,4
+6574,design,logged,
+6574,Experiment,started
+7576,Stimulus,presented,9
+8578,Stimulus,presented,8
+9581,Stimulus,presented,9
+10583,Stimulus,presented,8
+11585,Stimulus,presented,9
+12587,Stimulus,presented,8
+13589,Stimulus,presented,9
+14591,Stimulus,presented,8
+15591,Stimulus,presented,9
+16593,Stimulus,presented,8
+16593,stdout,received,'LEVEL 2'
+20600,stdout,received,'Block None: LEVEL 2\n    block factors: LEVEL = LEVEL 2\n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+20600,stderr,received,'Traceback (most recent call last):'
+20601,stderr,received,'  File "arithmatictask_v0.py", line 49, in <module>'
+20601,stderr,received,'    control.start()'
+20601,stderr,received,'  File "/home/k/workbench/cognitionExp/lib/python3.6/site-packages/expyriment/control/_experiment_control.py", line 73, in start'
+20601,stderr,received,'    raise Exception("Experiment is already started!")'
+20601,stderr,received,'Exception: Experiment is already started!'

@@ -1,0 +1,246 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Jul 31 2018 16:56:41
+#sha1: None
+#modules: 
+#display: size=(2732, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+11824,design,log,
+#design: #exp: SNARC
+#design: #xpi: This a just a SNARC experiment.
+#design: #bws: mapping_order=left_odd_first,right_odd_first
+#design: #bws-rand: 0
+#design: #dvn: block,mapping,trial,digit,ISI,btn,RT,error
+#design: block_cnt,block_id,block_mapping,trial_cnt,trial_id,digit
+#design: 0,0,left_odd,0,74,9
+#design: 0,0,left_odd,1,49,6
+#design: 0,0,left_odd,2,53,7
+#design: 0,0,left_odd,3,46,6
+#design: 0,0,left_odd,4,6,1
+#design: 0,0,left_odd,5,26,3
+#design: 0,0,left_odd,6,7,1
+#design: 0,0,left_odd,7,10,2
+#design: 0,0,left_odd,8,4,1
+#design: 0,0,left_odd,9,59,7
+#design: 0,0,left_odd,10,42,6
+#design: 0,0,left_odd,11,19,2
+#design: 0,0,left_odd,12,71,9
+#design: 0,0,left_odd,13,70,9
+#design: 0,0,left_odd,14,22,3
+#design: 0,0,left_odd,15,28,3
+#design: 0,0,left_odd,16,33,4
+#design: 0,0,left_odd,17,40,6
+#design: 0,0,left_odd,18,38,4
+#design: 0,0,left_odd,19,17,2
+#design: 0,0,left_odd,20,73,9
+#design: 0,0,left_odd,21,14,2
+#design: 0,0,left_odd,22,47,6
+#design: 0,0,left_odd,23,13,2
+#design: 0,0,left_odd,24,51,7
+#design: 0,0,left_odd,25,2,1
+#design: 0,0,left_odd,26,54,7
+#design: 0,0,left_odd,27,67,8
+#design: 0,0,left_odd,28,20,3
+#design: 0,0,left_odd,29,72,9
+#design: 0,0,left_odd,30,44,6
+#design: 0,0,left_odd,31,50,7
+#design: 0,0,left_odd,32,23,3
+#design: 0,0,left_odd,33,25,3
+#design: 0,0,left_odd,34,58,7
+#design: 0,0,left_odd,35,65,8
+#design: 0,0,left_odd,36,11,2
+#design: 0,0,left_odd,37,79,9
+#design: 0,0,left_odd,38,68,8
+#design: 0,0,left_odd,39,29,3
+#design: 0,0,left_odd,40,3,1
+#design: 0,0,left_odd,41,18,2
+#design: 0,0,left_odd,42,56,7
+#design: 0,0,left_odd,43,43,6
+#design: 0,0,left_odd,44,35,4
+#design: 0,0,left_odd,45,75,9
+#design: 0,0,left_odd,46,64,8
+#design: 0,0,left_odd,47,76,9
+#design: 0,0,left_odd,48,32,4
+#design: 0,0,left_odd,49,66,8
+#design: 0,0,left_odd,50,55,7
+#design: 0,0,left_odd,51,9,1
+#design: 0,0,left_odd,52,77,9
+#design: 0,0,left_odd,53,39,4
+#design: 0,0,left_odd,54,5,1
+#design: 0,0,left_odd,55,1,1
+#design: 0,0,left_odd,56,0,1
+#design: 0,0,left_odd,57,8,1
+#design: 0,0,left_odd,58,15,2
+#design: 0,0,left_odd,59,16,2
+#design: 0,0,left_odd,60,45,6
+#design: 0,0,left_odd,61,37,4
+#design: 0,0,left_odd,62,31,4
+#design: 0,0,left_odd,63,69,8
+#design: 0,0,left_odd,64,60,8
+#design: 0,0,left_odd,65,30,4
+#design: 0,0,left_odd,66,12,2
+#design: 0,0,left_odd,67,62,8
+#design: 0,0,left_odd,68,63,8
+#design: 0,0,left_odd,69,52,7
+#design: 0,0,left_odd,70,27,3
+#design: 0,0,left_odd,71,21,3
+#design: 0,0,left_odd,72,48,6
+#design: 0,0,left_odd,73,24,3
+#design: 0,0,left_odd,74,78,9
+#design: 0,0,left_odd,75,41,6
+#design: 0,0,left_odd,76,57,7
+#design: 0,0,left_odd,77,34,4
+#design: 0,0,left_odd,78,61,8
+#design: 0,0,left_odd,79,36,4
+#design: 1,1,right_odd,0,7,1
+#design: 1,1,right_odd,1,49,6
+#design: 1,1,right_odd,2,4,1
+#design: 1,1,right_odd,3,3,1
+#design: 1,1,right_odd,4,67,8
+#design: 1,1,right_odd,5,20,3
+#design: 1,1,right_odd,6,19,2
+#design: 1,1,right_odd,7,50,7
+#design: 1,1,right_odd,8,68,8
+#design: 1,1,right_odd,9,72,9
+#design: 1,1,right_odd,10,26,3
+#design: 1,1,right_odd,11,28,3
+#design: 1,1,right_odd,12,39,4
+#design: 1,1,right_odd,13,74,9
+#design: 1,1,right_odd,14,41,6
+#design: 1,1,right_odd,15,32,4
+#design: 1,1,right_odd,16,6,1
+#design: 1,1,right_odd,17,75,9
+#design: 1,1,right_odd,18,42,6
+#design: 1,1,right_odd,19,23,3
+#design: 1,1,right_odd,20,79,9
+#design: 1,1,right_odd,21,33,4
+#design: 1,1,right_odd,22,5,1
+#design: 1,1,right_odd,23,77,9
+#design: 1,1,right_odd,24,65,8
+#design: 1,1,right_odd,25,38,4
+#design: 1,1,right_odd,26,53,7
+#design: 1,1,right_odd,27,27,3
+#design: 1,1,right_odd,28,13,2
+#design: 1,1,right_odd,29,25,3
+#design: 1,1,right_odd,30,34,4
+#design: 1,1,right_odd,31,18,2
+#design: 1,1,right_odd,32,64,8
+#design: 1,1,right_odd,33,29,3
+#design: 1,1,right_odd,34,24,3
+#design: 1,1,right_odd,35,62,8
+#design: 1,1,right_odd,36,69,8
+#design: 1,1,right_odd,37,15,2
+#design: 1,1,right_odd,38,56,7
+#design: 1,1,right_odd,39,55,7
+#design: 1,1,right_odd,40,52,7
+#design: 1,1,right_odd,41,40,6
+#design: 1,1,right_odd,42,61,8
+#design: 1,1,right_odd,43,16,2
+#design: 1,1,right_odd,44,14,2
+#design: 1,1,right_odd,45,36,4
+#design: 1,1,right_odd,46,11,2
+#design: 1,1,right_odd,47,73,9
+#design: 1,1,right_odd,48,44,6
+#design: 1,1,right_odd,49,78,9
+#design: 1,1,right_odd,50,51,7
+#design: 1,1,right_odd,51,63,8
+#design: 1,1,right_odd,52,48,6
+#design: 1,1,right_odd,53,66,8
+#design: 1,1,right_odd,54,54,7
+#design: 1,1,right_odd,55,46,6
+#design: 1,1,right_odd,56,8,1
+#design: 1,1,right_odd,57,43,6
+#design: 1,1,right_odd,58,35,4
+#design: 1,1,right_odd,59,60,8
+#design: 1,1,right_odd,60,70,9
+#design: 1,1,right_odd,61,12,2
+#design: 1,1,right_odd,62,71,9
+#design: 1,1,right_odd,63,1,1
+#design: 1,1,right_odd,64,0,1
+#design: 1,1,right_odd,65,45,6
+#design: 1,1,right_odd,66,9,1
+#design: 1,1,right_odd,67,31,4
+#design: 1,1,right_odd,68,47,6
+#design: 1,1,right_odd,69,2,1
+#design: 1,1,right_odd,70,37,4
+#design: 1,1,right_odd,71,59,7
+#design: 1,1,right_odd,72,22,3
+#design: 1,1,right_odd,73,10,2
+#design: 1,1,right_odd,74,30,4
+#design: 1,1,right_odd,75,21,3
+#design: 1,1,right_odd,76,58,7
+#design: 1,1,right_odd,77,76,9
+#design: 1,1,right_odd,78,17,2
+#design: 1,1,right_odd,79,57,7
+11826,design,logged,
+11826,Experiment,started
+11906,Stimulus,presented,4
+25152,Keyboard,received,32,wait
+25154,Stimulus,presented,1
+25656,Stimulus,presented,0
+26317,Stimulus,presented,5
+28961,Keyboard,received,276,wait
+28961,Stimulus,presented,0
+28964,Data,saved
+29964,Stimulus,presented,1
+30466,Stimulus,presented,0
+30759,Stimulus,presented,6
+31969,Keyboard,received,275,wait
+31970,Stimulus,presented,0
+31972,Data,saved
+32972,Stimulus,presented,1
+33474,Stimulus,presented,0
+33891,Stimulus,presented,7
+34441,Keyboard,received,276,wait
+34442,Stimulus,presented,0
+34445,Data,saved
+35445,Stimulus,presented,1
+35947,Stimulus,presented,0
+36456,Stimulus,presented,8
+36728,Keyboard,received,275,wait
+36729,Stimulus,presented,0
+36732,Data,saved
+37732,Stimulus,presented,1
+38234,Stimulus,presented,0
+38508,Stimulus,presented,9
+38968,Keyboard,received,276,wait
+38969,Stimulus,presented,0
+38971,Data,saved
+39972,Stimulus,presented,1
+40474,Stimulus,presented,0
+40904,Stimulus,presented,10
+41168,Keyboard,received,275,wait
+41168,Stimulus,presented,0
+41171,Data,saved
+42171,Stimulus,presented,1
+42673,Stimulus,presented,0
+43109,Stimulus,presented,11
+43400,Keyboard,received,276,wait
+43401,Stimulus,presented,0
+43403,Stimulus,played,b'/tmp/expyriment_ozrbfz3j/freq2000_dur200.0_gyqurkj4.wav'
+45403,Data,saved
+46403,Stimulus,presented,1
+46905,Stimulus,presented,0
+47456,Stimulus,presented,12
+48168,Keyboard,received,276,wait
+48168,Stimulus,presented,0
+48171,Data,saved
+49171,Stimulus,presented,1
+49674,Stimulus,presented,0
+50077,Stimulus,presented,13
+50488,Keyboard,received,276,wait
+50489,Stimulus,presented,0
+50491,Data,saved
+51491,Stimulus,presented,1
+51993,Stimulus,presented,0
+52448,Stimulus,presented,14
+52936,Keyboard,received,276,wait
+52937,Stimulus,presented,0
+52939,Stimulus,played,b'/tmp/expyriment_ozrbfz3j/freq2000_dur200.0_gyqurkj4.wav'
+54939,Data,saved
+56007,Stimulus,presented,15
+60295,Experiment,paused
+60301,Stimulus,presented,16
+62312,Keyboard,received,b'y',wait_char
+62312,Experiment,ended
+62314,Stimulus,presented,16

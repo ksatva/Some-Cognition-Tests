@@ -1,0 +1,51 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 19:46:16
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+260,stdout,received,'level1'
+260,stdout,received,"<class 'tuple'>"
+260,stdout,received,"<class 'tuple'>"
+260,stdout,received,"<class 'tuple'>"
+260,stdout,received,"<class 'tuple'>"
+261,stdout,received,'level2'
+261,stdout,received,"<class 'tuple'>"
+261,stdout,received,"<class 'tuple'>"
+261,stdout,received,"<class 'tuple'>"
+261,stdout,received,"<class 'tuple'>"
+2189,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_LEVEL,trial_cnt,trial_id,COLOR
+#design: 0,0,level1,0,0,red
+#design: 0,0,level1,1,1,green
+#design: 0,0,level1,2,3,yellow
+#design: 0,0,level1,3,2,blue
+#design: 1,1,level2,0,3,yellow
+#design: 1,1,level2,1,1,green
+#design: 1,1,level2,2,0,red
+#design: 1,1,level2,3,2,blue
+2189,design,logged,
+2189,Experiment,started
+2211,Stimulus,presented,9
+2947,Keyboard,received,13,wait
+2948,Stimulus,presented,0
+3949,Stimulus,presented,1
+4950,Stimulus,presented,0
+5951,Stimulus,presented,2
+6952,Stimulus,presented,0
+7953,Stimulus,presented,4
+8954,Stimulus,presented,0
+9955,Stimulus,presented,3
+10976,Stimulus,presented,10
+16155,Keyboard,received,13,wait
+16156,Stimulus,presented,0
+17157,Stimulus,presented,8
+18158,Stimulus,presented,0
+19159,Stimulus,presented,6
+20159,Stimulus,presented,0
+21160,Stimulus,presented,5
+22161,Stimulus,presented,0
+23162,Stimulus,presented,7
+24163,Experiment,ended

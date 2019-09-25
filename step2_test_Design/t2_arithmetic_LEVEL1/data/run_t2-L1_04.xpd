@@ -1,0 +1,11 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpd-file, coding: ISO8859-1
+#date: Fri Aug 31 2018 20:15:16
+#--EXPERIMENT INFO
+#e mainfile: run_t2-L1.py
+#e sha1: 74584b
+#e modules: startTrial.py (68d3d4), arithmtrial_L1.py (8fb1ea)
+#e Experiment: MATH
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 4
+subject_id,

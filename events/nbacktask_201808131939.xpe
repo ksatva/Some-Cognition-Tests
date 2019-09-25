@@ -1,0 +1,13 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 13 2018 19:39:42
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.4.0-109-generic', version='#132~14.04.1-Ubuntu SMP Tue Jan 9 21:46:42 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+250,stdout,received,'level1'
+250,stdout,received,'red'
+251,stderr,received,'Traceback (most recent call last):'
+251,stderr,received,'  File "nbacktask.py", line 32, in <module>'
+251,stderr,received,'    print("color1:" + color[1])'
+251,stderr,received,'TypeError: must be str, not tuple'
