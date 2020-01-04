@@ -1,9 +1,12 @@
 # Some cognition tests
 
-# 1) n-back test    : to test short-term memory
-# 2) arithmetic test: to test working memory
+------
 
-Each test is of 2 difficulty levels 'easy' and 'hard'
+## 1) n-back test    : to test short-term memory
+3 Difficulty levels EASY, MEDIUM, HARD
+
+## 2) arithmetic test: to test working memory
+3 Difficulty levels EASY, MEDIUM, HARD
 
 -----
 
