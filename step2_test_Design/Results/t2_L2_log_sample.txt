@@ -1,0 +1,116 @@
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Expyriment 0.9.0 (Python 3.6.5) 
+run_t2-L2.py
+*** NORMAL MODE ***
+0
+[1, 'x', 3, '+', 2, '+', 2, '+', 5]
+[1, 'x', 3, '+', 2, '+', 2, '+', 5]
+12
+[[1, 'x', 3, '+', 2, '+', 2, '+', 5], 12]
+Block 0: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+1
+[5, 'x', 4, 'x', 2, 'x', 5, 'x', 1]
+[5, 'x', 4, 'x', 2, 'x', 5, 'x', 1]
+200
+[[5, 'x', 4, 'x', 2, 'x', 5, 'x', 1], 200]
+Block 1: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+2
+[4, '+', 5, '+', 5, '-', 5, '-', 1]
+[4, '+', 5, '+', 5, '-', 5, '-', 1]
+8
+[[4, '+', 5, '+', 5, '-', 5, '-', 1], 8]
+Block 2: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+3
+[5, 'x', 1, '+', 3, 'x', 4, '+', 5]
+[5, 'x', 1, '+', 3, 'x', 4, '+', 5]
+37
+[[5, 'x', 1, '+', 3, 'x', 4, '+', 5], 37]
+Block 3: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+4
+[5, '+', 2, '-', 1, '-', 1, '-', 1]
+[5, '+', 2, '-', 1, '-', 1, '-', 1]
+4
+[[5, '+', 2, '-', 1, '-', 1, '-', 1], 4]
+Block 4: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+5
+[5, 'x', 3, '+', 4, '-', 5, '+', 5]
+[5, 'x', 3, '+', 4, '-', 5, '+', 5]
+19
+[[5, 'x', 3, '+', 4, '-', 5, '+', 5], 19]
+Block 5: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+6
+[2, '-', 4, '+', 1, '-', 4, '-', 4]
+[2, '-', 4, '+', 1, '-', 4, '-', 4]
+-9
+[[2, '-', 4, '+', 1, '-', 4, '-', 4], -9]
+Block 6: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+7
+[3, '+', 3, 'x', 5, 'x', 4, '+', 1]
+[3, '+', 3, 'x', 5, 'x', 4, '+', 1]
+121
+[[3, '+', 3, 'x', 5, 'x', 4, '+', 1], 121]
+Block 7: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+8
+[3, 'x', 1, '-', 2, '+', 3, '-', 1]
+[3, 'x', 1, '-', 2, '+', 3, '-', 1]
+3
+[[3, 'x', 1, '-', 2, '+', 3, '-', 1], 3]
+Block 8: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+9
+[5, '+', 4, '+', 2, 'x', 5, '-', 5]
+[5, '+', 4, '+', 2, 'x', 5, '-', 5]
+50
+[[5, '+', 4, '+', 2, 'x', 5, '-', 5], 50]
+Block 9: unnamed
+    block factors: 
+    n trials: 9
+    trial IDs = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    trial factors: 
+incorrect
+[[-5, -5, -5, -5, -5, -5, -5, -5, -5, -5], [0.4337329864501953, 0.11587071418762207, 0.14415526390075684, 0.13149547576904297, 0.11150002479553223, 0.1419224739074707, 0.13517355918884277, 0.13461852073669434, 0.10822868347167969, 0.16075658798217773], [0, 'volunteerName', 0, 0, 0, 149.71182703971863, 0, 0, 0, 0]]

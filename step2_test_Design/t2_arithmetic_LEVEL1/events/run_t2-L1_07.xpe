@@ -1,0 +1,43 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: ISO8859-1
+#date: Fri Aug 31 2018 20:22:50
+#sha1: 74584b
+#modules: startTrial.py (ad492f), arithmtrial_L1.py (8fb1ea)
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: ('Linux', 'L3460', '4.15.0-33-generic', '#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1304,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+1304,design,logged,
+1304,Experiment,started
+1336,Stimulus,presented,1
+3339,Stimulus,presented,0
+13339,stdout,received,'0'
+13339,stdout,received,"[4, 'x', 5, '+', 4]"
+13339,stdout,received,'[4, 5, 4]'
+13339,stdout,received,"['x', '+']"
+13339,stdout,received,"[[4, 'x', 5, '+', 4], 24]"
+13343,Stimulus,presented,0
+13647,Stimulus,presented,2
+14650,Stimulus,presented,3
+15652,Stimulus,presented,4
+16654,Stimulus,presented,5
+17656,Stimulus,presented,6
+18656,stdout,received,'Block 0: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+18672,Stimulus,presented,7
+18686,Stimulus,presented,7
+18700,Stimulus,presented,7
+18704,Stimulus,presented,8
+18709,Stimulus,presented,8
+383291,Stimulus,presented,8
+383308,Stimulus,presented,8
+411861,stderr,received,'Traceback (most recent call last):'
+411861,stderr,received,'  File "run_t2-L1.py", line 25, in <module>'
+411861,stderr,received,'    trial.startTrial(NUMBER,OPERATOR) #stim 1 to stim n-1'
+411861,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t2_arithmetic_LEVEL1/startTrial.py", line 61, in startTrial'
+411861,stderr,received,'    answer = txt_input.get()'
+411861,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 427, in get'
+411862,stderr,received,'    inkey, string = self._get_key()'
+411862,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 318, in _get_key'
+411862,stderr,received,'    event = pygame.event.poll()'
+411862,stderr,received,'KeyboardInterrupt'

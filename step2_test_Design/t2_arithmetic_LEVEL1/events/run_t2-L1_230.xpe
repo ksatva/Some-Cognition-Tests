@@ -1,0 +1,36 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Sep 04 2018 10:22:00
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+979,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+979,design,logged,
+979,Experiment,started
+998,Stimulus,presented,1
+1004,Stimulus,presented,1
+1012,Stimulus,presented,1
+1015,Stimulus,presented,2
+2285,Stimulus,presented,2
+2461,Stimulus,presented,2
+2645,Stimulus,presented,2
+2805,Stimulus,presented,2
+3650,TextInput,entered,b'kkkk'
+3677,Stimulus,presented,2
+13679,Stimulus,presented,0
+23680,stdout,received,'0'
+23680,stdout,received,"[3, 'x', 3, '+', 4]"
+23680,stdout,received,"[3, 'x', 3, '+', 4]"
+23680,stdout,received,'13'
+23680,stdout,received,"[[3, 'x', 3, '+', 4], 13]"
+23685,Stimulus,presented,0
+24085,stdout,received,'ttt 0'
+25048,stderr,received,'Traceback (most recent call last):'
+25048,stderr,received,'  File "run_t2-L1.py", line 29, in <module>'
+25048,stderr,received,'    Matrix=start.startTrial(NUMBER,OPERATOR) #stim 1 to stim n-1'
+25049,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t2_arithmetic_LEVEL1/startTrial.py", line 63, in startTrial'
+25049,stderr,received,'    for t in b.trials:'
+25049,stderr,received,"AttributeError: 'int' object has no attribute 'trials'"

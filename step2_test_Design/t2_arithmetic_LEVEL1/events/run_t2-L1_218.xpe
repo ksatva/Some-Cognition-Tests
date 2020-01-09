@@ -1,0 +1,45 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: ISO8859-1
+#date: Mon Sep 03 2018 23:04:20
+#sha1: 314111
+#modules: calc.py (4f7ca1), resultant.py (f8a2fe), startTrial.py (70e0e7), arithmtrial_L1.py (882894), writetofile.py (e8ce07)
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: ('Linux', 'L3460', '4.15.0-33-generic', '#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1023,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+1023,design,logged,
+1023,Experiment,started
+1053,Stimulus,presented,1
+1068,Stimulus,presented,1
+1082,Stimulus,presented,1
+1086,Stimulus,presented,2
+2014,TextInput,entered,
+2039,Stimulus,presented,2
+12043,Stimulus,presented,0
+22044,stdout,received,'0'
+22044,stdout,received,"[4, 'x', 3, '-', 2]"
+22044,stdout,received,"[4, 'x', 3, '-', 2]"
+22044,stdout,received,'10'
+22044,stdout,received,"[[4, 'x', 3, '-', 2], 10]"
+22053,Stimulus,presented,0
+22357,Stimulus,presented,3
+23060,Stimulus,presented,4
+23765,Stimulus,presented,5
+24467,Stimulus,presented,6
+25170,Stimulus,presented,7
+25870,stdout,received,'Block 0: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+25887,Stimulus,presented,8
+25898,Stimulus,presented,8
+25910,Stimulus,presented,8
+25915,Stimulus,presented,9
+118085,stderr,received,'Traceback (most recent call last):'
+118085,stderr,received,'  File "run_t2-L1.py", line 27, in <module>'
+118085,stderr,received,'    Matrix=start.startTrial(NUMBER,OPERATOR) #stim 1 to stim n-1'
+118085,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t2_arithmetic_LEVEL1/startTrial.py", line 66, in startTrial'
+118086,stderr,received,'    answer = txt_input.get()'
+118086,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 427, in get'
+118086,stderr,received,'    inkey, string = self._get_key()'
+118086,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 318, in _get_key'
+118086,stderr,received,'    event = pygame.event.poll()'
+118086,stderr,received,'KeyboardInterrupt'

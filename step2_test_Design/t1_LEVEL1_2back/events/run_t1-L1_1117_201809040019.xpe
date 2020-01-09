@@ -1,0 +1,206 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Tue Sep 04 2018 00:19:13
+#sha1: None
+#modules: 
+#display: size=(1366, 768), window_mode=False, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+11586,design,log,
+#design: #exp: trial no. _01
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,trial no. _01,0,0,blue
+#design: 0,0,trial no. _01,1,1,yellow
+#design: 0,0,trial no. _01,2,2,blue
+#design: 0,0,trial no. _01,3,3,yellow
+#design: 0,0,trial no. _01,4,4,red
+#design: 0,0,trial no. _01,5,5,blue
+#design: 0,0,trial no. _01,6,6,green
+#design: 0,0,trial no. _01,7,7,blue
+#design: 0,0,trial no. _01,8,8,red
+#design: 0,0,trial no. _01,9,9,yellow
+#design: 0,0,trial no. _01,10,10,green
+#design: 0,0,trial no. _01,11,11,yellow
+#design: 0,0,trial no. _01,12,12,yellow
+#design: 0,0,trial no. _01,13,13,green
+#design: 0,0,trial no. _01,14,14,yellow
+#design: 0,0,trial no. _01,15,15,yellow
+#design: 0,0,trial no. _01,16,16,yellow
+#design: 0,0,trial no. _01,17,17,blue
+#design: 0,0,trial no. _01,18,18,blue
+#design: 0,0,trial no. _01,19,19,yellow
+#design: 0,0,trial no. _01,20,20,blue
+#design: 0,0,trial no. _01,21,21,blue
+#design: 0,0,trial no. _01,22,22,red
+#design: 0,0,trial no. _01,23,23,red
+#design: 0,0,trial no. _01,24,24,red
+#design: 0,0,trial no. _01,25,25,blue
+#design: 0,0,trial no. _01,26,26,yellow
+#design: 0,0,trial no. _01,27,27,green
+#design: 0,0,trial no. _01,28,28,yellow
+#design: 0,0,trial no. _01,29,29,green
+11587,design,logged,
+11587,Experiment,started
+11624,Stimulus,presented,1
+11642,Stimulus,presented,1
+11659,Stimulus,presented,1
+11663,Stimulus,presented,2
+24084,Stimulus,presented,2
+24476,Stimulus,presented,2
+26686,Stimulus,presented,2
+26810,Stimulus,presented,2
+27102,Stimulus,presented,2
+29515,TextInput,entered,b'sagar'
+29577,Stimulus,presented,2
+39580,Stimulus,presented,30
+49581,stdout,received,'30'
+49584,Stimulus,presented,3
+50086,Stimulus,presented,0
+53090,Stimulus,presented,4
+53593,Stimulus,presented,1
+56597,Stimulus,presented,5
+57099,Stimulus,presented,2
+57663,Keyboard,received,32,wait
+60101,stdout,received,'HIT'
+60101,stdout,received,"['blue', 'yellow', 'blue']"
+60103,Stimulus,presented,6
+60606,Stimulus,presented,3
+61181,Keyboard,received,32,wait
+63608,stdout,received,'HIT'
+63608,stdout,received,"['yellow', 'blue', 'yellow']"
+63610,Stimulus,presented,7
+64112,Stimulus,presented,4
+67114,Keyboard,received,None,wait
+67114,stdout,received,'-1'
+67114,stdout,received,"['blue', 'yellow', 'red']"
+67117,Stimulus,presented,8
+67620,Stimulus,presented,5
+70622,Keyboard,received,None,wait
+70622,stdout,received,'-1'
+70622,stdout,received,"['yellow', 'red', 'blue']"
+70625,Stimulus,presented,9
+71128,Stimulus,presented,6
+74129,Keyboard,received,None,wait
+74129,stdout,received,'-1'
+74129,stdout,received,"['red', 'blue', 'green']"
+74132,Stimulus,presented,10
+74635,Stimulus,presented,7
+75135,Keyboard,received,32,wait
+77636,stdout,received,'HIT'
+77636,stdout,received,"['blue', 'green', 'blue']"
+77638,Stimulus,presented,11
+78141,Stimulus,presented,8
+81142,Keyboard,received,None,wait
+81142,stdout,received,'-1'
+81143,stdout,received,"['green', 'blue', 'red']"
+81146,Stimulus,presented,12
+81648,Stimulus,presented,9
+84650,Keyboard,received,None,wait
+84650,stdout,received,'-1'
+84650,stdout,received,"['blue', 'red', 'yellow']"
+84653,Stimulus,presented,13
+85156,Stimulus,presented,10
+88158,Keyboard,received,None,wait
+88158,stdout,received,'-1'
+88158,stdout,received,"['red', 'yellow', 'green']"
+88161,Stimulus,presented,14
+88664,Stimulus,presented,11
+89069,Keyboard,received,32,wait
+91666,stdout,received,'HIT'
+91666,stdout,received,"['yellow', 'green', 'yellow']"
+91668,Stimulus,presented,15
+92171,Stimulus,presented,12
+95172,Keyboard,received,None,wait
+95173,stdout,received,'-1'
+95173,stdout,received,"['green', 'yellow', 'yellow']"
+95176,Stimulus,presented,16
+95679,Stimulus,presented,13
+98681,Keyboard,received,None,wait
+98681,stdout,received,'-1'
+98681,stdout,received,"['yellow', 'yellow', 'green']"
+98684,Stimulus,presented,17
+99187,Stimulus,presented,14
+99851,Keyboard,received,32,wait
+102189,stdout,received,'HIT'
+102189,stdout,received,"['yellow', 'green', 'yellow']"
+102192,Stimulus,presented,18
+102693,Stimulus,presented,15
+105695,Keyboard,received,None,wait
+105695,stdout,received,'-1'
+105695,stdout,received,"['green', 'yellow', 'yellow']"
+105698,Stimulus,presented,19
+106200,Stimulus,presented,16
+107127,Keyboard,received,32,wait
+109202,stdout,received,'HIT'
+109202,stdout,received,"['yellow', 'yellow', 'yellow']"
+109205,Stimulus,presented,20
+109708,Stimulus,presented,17
+112709,Keyboard,received,None,wait
+112710,stdout,received,'-1'
+112710,stdout,received,"['yellow', 'yellow', 'blue']"
+112712,Stimulus,presented,21
+113214,Stimulus,presented,18
+116216,Keyboard,received,None,wait
+116216,stdout,received,'-1'
+116216,stdout,received,"['yellow', 'blue', 'blue']"
+116219,Stimulus,presented,22
+116722,Stimulus,presented,19
+119723,Keyboard,received,None,wait
+119723,stdout,received,'-1'
+119724,stdout,received,"['blue', 'blue', 'yellow']"
+119726,Stimulus,presented,23
+120228,Stimulus,presented,20
+121021,Keyboard,received,32,wait
+123230,stdout,received,'HIT'
+123230,stdout,received,"['blue', 'yellow', 'blue']"
+123233,Stimulus,presented,24
+123735,Stimulus,presented,21
+126737,Keyboard,received,None,wait
+126737,stdout,received,'-1'
+126737,stdout,received,"['yellow', 'blue', 'blue']"
+126739,Stimulus,presented,25
+127241,Stimulus,presented,22
+130243,Keyboard,received,None,wait
+130243,stdout,received,'-1'
+130243,stdout,received,"['blue', 'blue', 'red']"
+130246,Stimulus,presented,26
+130748,Stimulus,presented,23
+133750,Keyboard,received,None,wait
+133750,stdout,received,'-1'
+133750,stdout,received,"['blue', 'red', 'red']"
+133753,Stimulus,presented,27
+134256,Stimulus,presented,24
+134909,Keyboard,received,32,wait
+137258,stdout,received,'HIT'
+137258,stdout,received,"['red', 'red', 'red']"
+137260,Stimulus,presented,28
+137762,Stimulus,presented,25
+140764,Keyboard,received,None,wait
+140764,stdout,received,'-1'
+140764,stdout,received,"['red', 'red', 'blue']"
+140767,Stimulus,presented,29
+141270,Stimulus,presented,26
+144271,Keyboard,received,None,wait
+144271,stdout,received,'-1'
+144272,stdout,received,"['red', 'blue', 'yellow']"
+144275,Stimulus,presented,30
+144777,Stimulus,presented,27
+147779,Keyboard,received,None,wait
+147779,stdout,received,'-1'
+147779,stdout,received,"['blue', 'yellow', 'green']"
+147781,Stimulus,presented,31
+148283,Stimulus,presented,28
+148645,Keyboard,received,32,wait
+151285,stdout,received,'HIT'
+151285,stdout,received,"['yellow', 'green', 'yellow']"
+151287,Stimulus,presented,32
+151790,Stimulus,presented,29
+152479,Keyboard,received,32,wait
+154792,stdout,received,'HIT'
+154792,stdout,received,"['green', 'yellow', 'green']"
+154792,stdout,received,'***RESULT: -------------\n*** -H:10->M:0-> I:0'
+154792,stdout,received,"[[0, 0, 'H', 'H', 0, 0, 0, 'H', 0, 0, 0, 'H', 0, 0, 'H', 0, 'H', 0, 0, 0, 'H', 0, 0, 0, 'H', 0, 0, 0, 'H', 'H'], [0, 0, 562, 573, 0, 0, 0, 499, 0, 0, 0, 403, 0, 0, 662, 0, 925, 0, 0, 0, 791, 0, 0, 0, 651, 0, 0, 0, 360, 687], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]"
+154792,stdout,received,'*** fN startTrial: nbacks = 10 nos.'
+154792,stdout,received,'*** Correct 100.0% \n----------------------[trial end]'
+154792,Stimulus,presented,30
+159793,Experiment,ended
+159796,Stimulus,presented,33

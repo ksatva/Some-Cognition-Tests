@@ -1,0 +1,60 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Mon Sep 03 2018 18:18:26
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1148,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+1148,design,logged,
+1148,Experiment,started
+1166,Stimulus,presented,1
+1177,Stimulus,presented,1
+1189,Stimulus,presented,1
+1193,Stimulus,presented,2
+4426,Stimulus,presented,2
+4753,TextInput,entered,b'k'
+4778,Stimulus,presented,2
+4781,Stimulus,presented,0
+14788,Stimulus,presented,0
+15092,Stimulus,presented,3
+16095,Stimulus,presented,4
+17097,Stimulus,presented,5
+18100,Stimulus,presented,6
+19102,Stimulus,presented,7
+20116,Stimulus,presented,8
+20122,Stimulus,presented,8
+20128,Stimulus,presented,8
+20131,Stimulus,presented,9
+23375,TextInput,entered,b''
+23381,Stimulus,presented,0
+23681,Stimulus,presented,0
+23982,Stimulus,presented,9
+24985,Stimulus,presented,10
+25987,Stimulus,presented,11
+26988,Stimulus,presented,12
+27990,Stimulus,presented,13
+29013,Stimulus,presented,14
+29024,Stimulus,presented,14
+29030,Stimulus,presented,14
+29035,Stimulus,presented,15
+31329,Stimulus,presented,15
+31516,TextInput,entered,b'9'
+31525,Stimulus,presented,0
+31825,Stimulus,presented,0
+32125,Stimulus,presented,0
+32427,Stimulus,presented,15
+33428,Stimulus,presented,16
+34430,Stimulus,presented,17
+35432,Stimulus,presented,18
+36434,Stimulus,presented,19
+37450,Stimulus,presented,20
+37456,Stimulus,presented,20
+37463,Stimulus,presented,20
+37466,Stimulus,presented,21
+43051,Stimulus,presented,21
+43179,TextInput,entered,b'7'
+43180,Stimulus,presented,0
+48181,Experiment,ended
