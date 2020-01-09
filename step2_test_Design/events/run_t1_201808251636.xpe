@@ -1,0 +1,17 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Sat Aug 25 2018 16:36:17
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+315,stdout,received,"[['green', (0, 255, 0)], ['blue', (0, 0, 255)], ['blue', (0, 0, 255)], ['blue', (0, 0, 255)], ['red', (255, 0, 0)], ['blue', (0, 0, 255)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['green', (0, 255, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['green', (0, 255, 0)], ['red', (255, 0, 0)], ['green', (0, 255, 0)], ['red', (255, 0, 0)], ['red', (255, 0, 0)]]"
+315,stdout,received,'fN n1back: ncount = 10'
+315,stdout,received,'16'
+315,stdout,received,'28'
+317,stderr,received,'Traceback (most recent call last):'
+317,stderr,received,'  File "run_t1.py", line 25, in <module>'
+318,stderr,received,"    b1=nbh.createBlock(COLORS,'name')                #fn call"
+318,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t1_functions.py", line 23, in createBlock'
+318,stderr,received,'    exp.add_block(b)'
+318,stderr,received,"NameError: name 'exp' is not defined"

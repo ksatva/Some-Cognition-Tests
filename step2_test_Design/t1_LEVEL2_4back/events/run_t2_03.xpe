@@ -1,0 +1,57 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Mon Aug 27 2018 09:54:07
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1581,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,blue
+#design: 0,0,name,1,1,yellow
+#design: 0,0,name,2,2,red
+#design: 0,0,name,3,3,yellow
+#design: 0,0,name,4,4,yellow
+#design: 0,0,name,5,5,blue
+#design: 0,0,name,6,6,green
+#design: 0,0,name,7,7,yellow
+#design: 0,0,name,8,8,yellow
+#design: 0,0,name,9,9,red
+#design: 0,0,name,10,10,blue
+#design: 0,0,name,11,11,red
+#design: 0,0,name,12,12,blue
+#design: 0,0,name,13,13,blue
+#design: 0,0,name,14,14,red
+#design: 0,0,name,15,15,green
+#design: 0,0,name,16,16,yellow
+#design: 0,0,name,17,17,yellow
+#design: 0,0,name,18,18,blue
+#design: 0,0,name,19,19,green
+#design: 0,0,name,20,20,yellow
+#design: 0,0,name,21,21,green
+#design: 0,0,name,22,22,blue
+#design: 0,0,name,23,23,yellow
+#design: 0,0,name,24,24,green
+#design: 0,0,name,25,25,yellow
+#design: 0,0,name,26,26,yellow
+#design: 0,0,name,27,27,red
+#design: 0,0,name,28,28,yellow
+#design: 0,0,name,29,29,blue
+#design: 0,0,name,30,30,yellow
+1581,design,logged,
+1581,Experiment,started
+1608,Stimulus,presented,0
+3610,Stimulus,presented,31
+13614,Stimulus,presented,1
+14115,Stimulus,presented,0
+17117,Stimulus,presented,2
+17620,Stimulus,presented,1
+20621,Stimulus,presented,3
+21123,Stimulus,presented,2
+24125,Stimulus,presented,4
+24627,Stimulus,presented,3
+27629,Stimulus,presented,5
+28131,Stimulus,presented,4
+31134,Stimulus,presented,6
+31636,Stimulus,presented,5

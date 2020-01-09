@@ -1,0 +1,133 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Thu Aug 30 2018 20:02:16
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+24954,design,log,
+#design: #exp: trial no. _01
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,yellow
+#design: 0,0,name,1,1,yellow
+#design: 0,0,name,2,2,red
+#design: 0,0,name,3,3,yellow
+#design: 0,0,name,4,4,blue
+#design: 0,0,name,5,5,yellow
+#design: 0,0,name,6,6,green
+#design: 0,0,name,7,7,green
+#design: 0,0,name,8,8,yellow
+#design: 0,0,name,9,9,blue
+#design: 0,0,name,10,10,yellow
+#design: 0,0,name,11,11,yellow
+#design: 0,0,name,12,12,blue
+#design: 0,0,name,13,13,red
+#design: 0,0,name,14,14,blue
+#design: 0,0,name,15,15,red
+#design: 0,0,name,16,16,blue
+#design: 0,0,name,17,17,red
+#design: 0,0,name,18,18,green
+#design: 0,0,name,19,19,red
+#design: 0,0,name,20,20,red
+#design: 0,0,name,21,21,yellow
+#design: 0,0,name,22,22,blue
+#design: 0,0,name,23,23,green
+#design: 0,0,name,24,24,blue
+#design: 0,0,name,25,25,red
+#design: 0,0,name,26,26,green
+#design: 0,0,name,27,27,blue
+#design: 0,0,name,28,28,green
+#design: 0,0,name,29,29,green
+24954,design,logged,
+24954,Experiment,started
+24987,Stimulus,presented,0
+26989,Stimulus,presented,61
+36992,Stimulus,presented,1
+37493,Stimulus,presented,31
+40496,Stimulus,presented,2
+40998,Stimulus,presented,32
+44000,Stimulus,presented,3
+44502,Stimulus,presented,33
+45377,Keyboard,received,32,wait
+47505,Stimulus,presented,4
+48007,Stimulus,presented,34
+51008,Keyboard,received,None,wait
+51011,Stimulus,presented,5
+51513,Stimulus,presented,35
+54514,Keyboard,received,None,wait
+54517,Stimulus,presented,6
+55020,Stimulus,presented,36
+58022,Keyboard,received,None,wait
+58025,Stimulus,presented,7
+58526,Stimulus,presented,37
+61527,Keyboard,received,None,wait
+61531,Stimulus,presented,8
+62032,Stimulus,presented,38
+65034,Keyboard,received,None,wait
+65037,Stimulus,presented,9
+65540,Stimulus,presented,39
+68541,Keyboard,received,None,wait
+68544,Stimulus,presented,10
+69047,Stimulus,presented,40
+72049,Keyboard,received,None,wait
+72052,Stimulus,presented,11
+72554,Stimulus,presented,41
+75555,Keyboard,received,None,wait
+75558,Stimulus,presented,12
+76060,Stimulus,presented,42
+79062,Keyboard,received,None,wait
+79065,Stimulus,presented,13
+79567,Stimulus,presented,43
+82569,Keyboard,received,None,wait
+82572,Stimulus,presented,14
+83073,Stimulus,presented,44
+86075,Keyboard,received,None,wait
+86078,Stimulus,presented,15
+86581,Stimulus,presented,45
+89582,Keyboard,received,None,wait
+89585,Stimulus,presented,16
+90087,Stimulus,presented,46
+93088,Keyboard,received,None,wait
+93091,Stimulus,presented,17
+93593,Stimulus,presented,47
+96595,Keyboard,received,None,wait
+96598,Stimulus,presented,18
+97100,Stimulus,presented,48
+100102,Keyboard,received,None,wait
+100105,Stimulus,presented,19
+100606,Stimulus,presented,49
+103608,Keyboard,received,None,wait
+103610,Stimulus,presented,20
+104112,Stimulus,presented,50
+107114,Keyboard,received,None,wait
+107117,Stimulus,presented,21
+107619,Stimulus,presented,51
+110620,Keyboard,received,None,wait
+110623,Stimulus,presented,22
+111125,Stimulus,presented,52
+114126,Keyboard,received,None,wait
+114129,Stimulus,presented,23
+114631,Stimulus,presented,53
+117633,Keyboard,received,None,wait
+117635,Stimulus,presented,24
+118138,Stimulus,presented,54
+121140,Keyboard,received,None,wait
+121143,Stimulus,presented,25
+121645,Stimulus,presented,55
+124646,Keyboard,received,None,wait
+124649,Stimulus,presented,26
+125151,Stimulus,presented,56
+128152,Keyboard,received,None,wait
+128155,Stimulus,presented,27
+128657,Stimulus,presented,57
+131658,Keyboard,received,None,wait
+131661,Stimulus,presented,28
+132164,Stimulus,presented,58
+135165,Keyboard,received,None,wait
+135168,Stimulus,presented,29
+135670,Stimulus,presented,59
+138672,Keyboard,received,None,wait
+138675,Stimulus,presented,30
+139176,Stimulus,presented,60
+142178,Keyboard,received,None,wait
+142179,Stimulus,presented,61

@@ -1,0 +1,121 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Thu Aug 30 2018 20:04:48
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+382106,design,log,
+#design: #exp: trial no. _02
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,green
+#design: 0,0,name,1,1,green
+#design: 0,0,name,2,2,green
+#design: 0,0,name,3,3,blue
+#design: 0,0,name,4,4,yellow
+#design: 0,0,name,5,5,red
+#design: 0,0,name,6,6,yellow
+#design: 0,0,name,7,7,green
+#design: 0,0,name,8,8,yellow
+#design: 0,0,name,9,9,yellow
+#design: 0,0,name,10,10,red
+#design: 0,0,name,11,11,yellow
+#design: 0,0,name,12,12,green
+#design: 0,0,name,13,13,yellow
+#design: 0,0,name,14,14,yellow
+#design: 0,0,name,15,15,red
+#design: 0,0,name,16,16,yellow
+#design: 0,0,name,17,17,green
+#design: 0,0,name,18,18,blue
+#design: 0,0,name,19,19,red
+#design: 0,0,name,20,20,blue
+#design: 0,0,name,21,21,red
+#design: 0,0,name,22,22,red
+#design: 0,0,name,23,23,yellow
+#design: 0,0,name,24,24,yellow
+#design: 0,0,name,25,25,blue
+#design: 0,0,name,26,26,yellow
+382107,design,logged,
+382107,Experiment,started
+382131,Stimulus,presented,0
+384133,Stimulus,presented,58
+394136,Stimulus,presented,1
+394638,Stimulus,presented,31
+397641,Stimulus,presented,2
+398143,Stimulus,presented,32
+401145,Stimulus,presented,3
+401647,Stimulus,presented,33
+404649,Keyboard,received,None,wait
+404652,Stimulus,presented,4
+405159,Stimulus,presented,34
+408161,Keyboard,received,None,wait
+408164,Stimulus,presented,5
+408666,Stimulus,presented,35
+411668,Keyboard,received,None,wait
+411671,Stimulus,presented,6
+412173,Stimulus,presented,36
+415175,Keyboard,received,None,wait
+415178,Stimulus,presented,7
+415680,Stimulus,presented,37
+418681,Keyboard,received,None,wait
+418683,Stimulus,presented,8
+419185,Stimulus,presented,38
+422187,Keyboard,received,None,wait
+422190,Stimulus,presented,9
+422692,Stimulus,presented,39
+425694,Keyboard,received,None,wait
+425697,Stimulus,presented,10
+426198,Stimulus,presented,40
+429200,Keyboard,received,None,wait
+429203,Stimulus,presented,11
+429705,Stimulus,presented,41
+432706,Keyboard,received,None,wait
+432709,Stimulus,presented,12
+433212,Stimulus,presented,42
+436213,Keyboard,received,None,wait
+436216,Stimulus,presented,13
+436718,Stimulus,presented,43
+439721,Keyboard,received,None,wait
+439724,Stimulus,presented,14
+440226,Stimulus,presented,44
+443227,Keyboard,received,None,wait
+443230,Stimulus,presented,15
+443733,Stimulus,presented,45
+446735,Keyboard,received,None,wait
+446738,Stimulus,presented,16
+447241,Stimulus,presented,46
+450243,Keyboard,received,None,wait
+450246,Stimulus,presented,17
+450748,Stimulus,presented,47
+453749,Keyboard,received,None,wait
+453753,Stimulus,presented,18
+454256,Stimulus,presented,48
+457257,Keyboard,received,None,wait
+457260,Stimulus,presented,19
+457762,Stimulus,presented,49
+460764,Keyboard,received,None,wait
+460767,Stimulus,presented,20
+461270,Stimulus,presented,50
+464272,Keyboard,received,None,wait
+464276,Stimulus,presented,21
+464778,Stimulus,presented,51
+467780,Keyboard,received,None,wait
+467784,Stimulus,presented,22
+468286,Stimulus,presented,52
+471287,Keyboard,received,None,wait
+471291,Stimulus,presented,23
+471794,Stimulus,presented,53
+474795,Keyboard,received,None,wait
+474799,Stimulus,presented,24
+475301,Stimulus,presented,54
+478302,Keyboard,received,None,wait
+478304,Stimulus,presented,25
+478806,Stimulus,presented,55
+481808,Keyboard,received,None,wait
+481811,Stimulus,presented,26
+482313,Stimulus,presented,56
+485314,Keyboard,received,None,wait
+485317,Stimulus,presented,27
+485820,Stimulus,presented,57
+488822,Keyboard,received,None,wait
+488823,Stimulus,presented,58

@@ -1,0 +1,54 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Sat Aug 25 2018 16:38:22
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+300,stdout,received,"11 ['green', (0, 255, 0)] ['green', (0, 255, 0)] ['blue', (0, 0, 255)]"
+300,stdout,received,"[['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['red', (255, 0, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['green', (0, 255, 0)], ['blue', (0, 0, 255)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['blue', (0, 0, 255)], ['yellow', (255, 255, 0)], ['yellow', (255, 255, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['red', (255, 0, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['green', (0, 255, 0)]]"
+300,stdout,received,'fN n1back: ncount = 10'
+300,stdout,received,'15'
+300,stdout,received,'28'
+1725,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,yellow
+#design: 0,0,name,1,1,green
+#design: 0,0,name,2,2,yellow
+#design: 0,0,name,3,3,blue
+#design: 0,0,name,4,4,red
+#design: 0,0,name,5,5,blue
+#design: 0,0,name,6,6,green
+#design: 0,0,name,7,7,green
+#design: 0,0,name,8,8,blue
+#design: 0,0,name,9,9,yellow
+#design: 0,0,name,10,10,blue
+#design: 0,0,name,11,11,blue
+#design: 0,0,name,12,12,yellow
+#design: 0,0,name,13,13,yellow
+#design: 0,0,name,14,14,yellow
+#design: 0,0,name,15,15,blue
+#design: 0,0,name,16,16,red
+#design: 0,0,name,17,17,blue
+#design: 0,0,name,18,18,green
+#design: 0,0,name,19,19,yellow
+#design: 0,0,name,20,20,red
+#design: 0,0,name,21,21,yellow
+#design: 0,0,name,22,22,blue
+#design: 0,0,name,23,23,yellow
+#design: 0,0,name,24,24,red
+#design: 0,0,name,25,25,yellow
+#design: 0,0,name,26,26,green
+#design: 0,0,name,27,27,green
+1725,design,logged,
+1725,Experiment,started
+1754,Stimulus,presented,29
+3757,Stimulus,presented,0
+13758,stdout,received,'28'
+13758,stderr,received,'Traceback (most recent call last):'
+13758,stderr,received,'  File "run_t1.py", line 36, in <module>'
+13758,stderr,received,'    nbh.startTrial(b1)'
+13758,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t1_functions.py", line 142, in startTrial'
+13758,stderr,received,'    for b in exp.blocks:'
+13758,stderr,received,"NameError: name 'exp' is not defined"

@@ -1,0 +1,5 @@
+n2back:    while (ncount<10):  #SET (ncount<10) ON COMMISSION
+           #SET ON COMMISSION len(Output)==30:
+run_t1_L1: #exp.clock.wait(10000) #stim -1 <REMOVE # ON COMMISSION> x2
+           for i in range(0,1):   #SET (0,3) ON COMMISSION
+           

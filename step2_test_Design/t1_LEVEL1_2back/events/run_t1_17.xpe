@@ -1,0 +1,129 @@
+#Expyriment 0.9.0 (Python 3.6.5), .xpe-file, coding: ISO8859-1
+#date: Thu Aug 30 2018 19:40:00
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+896100,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,red
+#design: 0,0,name,1,1,yellow
+#design: 0,0,name,2,2,green
+#design: 0,0,name,3,3,yellow
+#design: 0,0,name,4,4,green
+#design: 0,0,name,5,5,yellow
+#design: 0,0,name,6,6,blue
+#design: 0,0,name,7,7,red
+#design: 0,0,name,8,8,yellow
+#design: 0,0,name,9,9,red
+#design: 0,0,name,10,10,red
+#design: 0,0,name,11,11,blue
+#design: 0,0,name,12,12,yellow
+#design: 0,0,name,13,13,red
+#design: 0,0,name,14,14,yellow
+#design: 0,0,name,15,15,blue
+#design: 0,0,name,16,16,green
+#design: 0,0,name,17,17,red
+#design: 0,0,name,18,18,green
+#design: 0,0,name,19,19,green
+#design: 0,0,name,20,20,yellow
+#design: 0,0,name,21,21,green
+#design: 0,0,name,22,22,red
+#design: 0,0,name,23,23,green
+#design: 0,0,name,24,24,green
+#design: 0,0,name,25,25,blue
+#design: 0,0,name,26,26,blue
+#design: 0,0,name,27,27,green
+#design: 0,0,name,28,28,green
+896100,design,logged,
+896100,Experiment,started
+896134,Stimulus,presented,0
+898136,Stimulus,presented,57
+908139,Stimulus,presented,1
+908642,Stimulus,presented,28
+911645,Stimulus,presented,2
+912147,Stimulus,presented,29
+915148,Stimulus,presented,3
+915650,Stimulus,presented,30
+918652,Keyboard,received,None,wait
+918655,Stimulus,presented,4
+919157,Stimulus,presented,31
+922159,Keyboard,received,None,wait
+922162,Stimulus,presented,5
+922664,Stimulus,presented,32
+923105,Keyboard,received,32,wait
+925668,Stimulus,presented,6
+926171,Stimulus,presented,33
+929172,Keyboard,received,None,wait
+929176,Stimulus,presented,7
+929678,Stimulus,presented,34
+932679,Keyboard,received,None,wait
+932682,Stimulus,presented,8
+933183,Stimulus,presented,35
+936184,Keyboard,received,None,wait
+936188,Stimulus,presented,9
+936690,Stimulus,presented,36
+939693,Keyboard,received,None,wait
+939697,Stimulus,presented,10
+940200,Stimulus,presented,37
+940864,Keyboard,received,32,wait
+943204,Stimulus,presented,11
+943705,Stimulus,presented,38
+946707,Keyboard,received,None,wait
+946711,Stimulus,presented,12
+947214,Stimulus,presented,39
+950216,Keyboard,received,None,wait
+950219,Stimulus,presented,13
+950722,Stimulus,presented,40
+953723,Keyboard,received,None,wait
+953726,Stimulus,presented,14
+954229,Stimulus,presented,41
+957230,Keyboard,received,None,wait
+957233,Stimulus,presented,15
+957735,Stimulus,presented,42
+960736,Keyboard,received,None,wait
+960739,Stimulus,presented,16
+961242,Stimulus,presented,43
+964243,Keyboard,received,None,wait
+964246,Stimulus,presented,17
+964748,Stimulus,presented,44
+967749,Keyboard,received,None,wait
+967752,Stimulus,presented,18
+968255,Stimulus,presented,45
+971256,Keyboard,received,None,wait
+971260,Stimulus,presented,19
+971761,Stimulus,presented,46
+974763,Keyboard,received,None,wait
+974766,Stimulus,presented,20
+975267,Stimulus,presented,47
+978269,Keyboard,received,None,wait
+978272,Stimulus,presented,21
+978774,Stimulus,presented,48
+981776,Keyboard,received,None,wait
+981779,Stimulus,presented,22
+982280,Stimulus,presented,49
+985282,Keyboard,received,None,wait
+985285,Stimulus,presented,23
+985787,Stimulus,presented,50
+988788,Keyboard,received,None,wait
+988791,Stimulus,presented,24
+989294,Stimulus,presented,51
+992295,Keyboard,received,None,wait
+992298,Stimulus,presented,25
+992800,Stimulus,presented,52
+995802,Keyboard,received,None,wait
+995805,Stimulus,presented,26
+996306,Stimulus,presented,53
+999307,Keyboard,received,None,wait
+999311,Stimulus,presented,27
+999812,Stimulus,presented,54
+1002814,Keyboard,received,None,wait
+1002817,Stimulus,presented,28
+1003318,Stimulus,presented,55
+1006320,Keyboard,received,None,wait
+1006325,Stimulus,presented,29
+1006827,Stimulus,presented,56
+1009829,Keyboard,received,None,wait
+1009831,Stimulus,presented,57

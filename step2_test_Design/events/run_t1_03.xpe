@@ -1,0 +1,56 @@
+#Expyriment 0.9.0 (Python 3.6.6), .xpe-file, coding: ISO8859-1
+#date: Sat Aug 25 2018 16:39:15
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='L3460', release='4.15.0-33-generic', version='#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+328,stdout,received,"11 ['green', (0, 255, 0)] ['green', (0, 255, 0)] ['blue', (0, 0, 255)]"
+328,stdout,received,"[['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['blue', (0, 0, 255)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['yellow', (255, 255, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['green', (0, 255, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['red', (255, 0, 0)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['blue', (0, 0, 255)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)], ['red', (255, 0, 0)], ['yellow', (255, 255, 0)], ['red', (255, 0, 0)], ['blue', (0, 0, 255)], ['blue', (0, 0, 255)], ['green', (0, 255, 0)], ['yellow', (255, 255, 0)], ['green', (0, 255, 0)]]"
+328,stdout,received,'fN n1back: ncount = 10'
+328,stdout,received,'17'
+328,stdout,received,'30'
+2652,design,log,
+#design: #exp: n-back test
+#design: block_cnt,block_id,block_level,trial_cnt,trial_id,COLOR
+#design: 0,0,name,0,0,red
+#design: 0,0,name,1,1,yellow
+#design: 0,0,name,2,2,blue
+#design: 0,0,name,3,3,blue
+#design: 0,0,name,4,4,yellow
+#design: 0,0,name,5,5,green
+#design: 0,0,name,6,6,yellow
+#design: 0,0,name,7,7,yellow
+#design: 0,0,name,8,8,blue
+#design: 0,0,name,9,9,green
+#design: 0,0,name,10,10,green
+#design: 0,0,name,11,11,blue
+#design: 0,0,name,12,12,green
+#design: 0,0,name,13,13,red
+#design: 0,0,name,14,14,blue
+#design: 0,0,name,15,15,green
+#design: 0,0,name,16,16,blue
+#design: 0,0,name,17,17,red
+#design: 0,0,name,18,18,yellow
+#design: 0,0,name,19,19,green
+#design: 0,0,name,20,20,yellow
+#design: 0,0,name,21,21,green
+#design: 0,0,name,22,22,red
+#design: 0,0,name,23,23,yellow
+#design: 0,0,name,24,24,red
+#design: 0,0,name,25,25,blue
+#design: 0,0,name,26,26,blue
+#design: 0,0,name,27,27,green
+#design: 0,0,name,28,28,yellow
+#design: 0,0,name,29,29,green
+2652,design,logged,
+2652,Experiment,started
+2681,Stimulus,presented,31
+4683,Stimulus,presented,0
+14683,stdout,received,'30'
+14683,stderr,received,'Traceback (most recent call last):'
+14683,stderr,received,'  File "run_t1.py", line 36, in <module>'
+14683,stderr,received,'    nbh.startTrial(b1,exp)'
+14683,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t1_functions.py", line 146, in startTrial'
+14683,stderr,received,'    n_mem = numelTiral-3+1 # since 121'
+14683,stderr,received,"NameError: name 'numelTiral' is not defined"

@@ -1,0 +1,40 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: ISO8859-1
+#date: Fri Aug 31 2018 20:15:16
+#sha1: 74584b
+#modules: startTrial.py (68d3d4), arithmtrial_L1.py (8fb1ea)
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: ('Linux', 'L3460', '4.15.0-33-generic', '#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+2010,design,log,
+#design: #exp: MATH
+#design: block_cnt,block_id,trial_cnt,trial_id
+2010,design,logged,
+2010,Experiment,started
+2052,Stimulus,presented,1
+4057,Stimulus,presented,0
+14057,stdout,received,'0'
+14057,stdout,received,"[4, '-', 5, '-', 1]"
+14057,stdout,received,'[4, 5, 1]'
+14057,stdout,received,"['-', '-']"
+14057,stdout,received,"[[4, '-', 5, '-', 1], -2]"
+14061,Stimulus,presented,0
+14367,Stimulus,presented,2
+15368,Stimulus,presented,3
+16371,Stimulus,presented,4
+17373,Stimulus,presented,5
+18376,Stimulus,presented,6
+19377,stdout,received,'Block 0: unnamed\n    block factors: \n    n trials: 5\n    trial IDs = [0, 1, 2, 3, 4]\n    trial factors: '
+19400,Stimulus,presented,7
+19416,Stimulus,presented,7
+19429,Stimulus,presented,7
+19433,Stimulus,presented,8
+292384,stderr,received,'Traceback (most recent call last):'
+292384,stderr,received,'  File "run_t2-L1.py", line 25, in <module>'
+292384,stderr,received,'    trial.startTrial(NUMBER,OPERATOR) #stim 1 to stim n-1'
+292384,stderr,received,'  File "/home/k/workbench/cognitionExp/step2_test_Design/t2_arithmetic_LEVEL1/startTrial.py", line 61, in startTrial'
+292384,stderr,received,'    answer = txt_input.get()'
+292384,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 427, in get'
+292430,stderr,received,'    inkey, string = self._get_key()'
+292430,stderr,received,'  File "/home/k/.local/lib/python2.7/site-packages/expyriment/io/_textinput.py", line 318, in _get_key'
+292430,stderr,received,'    event = pygame.event.poll()'
+292431,stderr,received,'KeyboardInterrupt'

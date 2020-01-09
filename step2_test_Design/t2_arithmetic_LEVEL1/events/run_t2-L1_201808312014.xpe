@@ -1,0 +1,7 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: ISO8859-1
+#date: Fri Aug 31 2018 20:14:00
+#sha1: 74584b
+#modules: startTrial.py (686fa4), arithmtrial_L1.py (8fb1ea)
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: ('Linux', 'L3460', '4.15.0-33-generic', '#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
