@@ -1,7 +1,0 @@
-#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: ISO8859-1
-#date: Wed Aug 29 2018 17:05:47
-#sha1: 04ad65
-#modules: t1_functions.py (d65d41)
-#display: size=(800, 600), window_mode=True, open_gl=2
-#os: ('Linux', 'L3460', '4.15.0-33-generic', '#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018', 'x86_64', 'x86_64')
-Time,Type,Event,Value,Detail,Detail2
